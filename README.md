@@ -1,6 +1,6 @@
 # GSK × IÉSEG Hackathon — AI Yield Prediction for Polio Vaccine Purification
 
-**Title:** New AI methodologies to analyze the production process and improve yield   
+**Title:** New AI methodologies to analyze the production process and improve yield  
 **Partner:** GSK Vaccines
 
 ---
@@ -8,6 +8,10 @@
 ## Problem Statement
 
 Only ~34% of harvested antigen from the polio vaccine (IPV) purification process reaches final product. Yield varies by several percentage points between batches, and each 1% improvement translates to roughly 16,000 additional doses. This project applies AI and data analytics to move from reactive monitoring to predictive modeling of batch yield across the full purification pipeline.
+
+![Antigen Recovery Cascade](outputs/descriptive_analysis/antigen_cascade.png)
+
+*Antigen recovery drops progressively at each purification stage. By PSV, only 33–37% of harvested antigen remains — consistent across both serotypes (IP1 and IP3).*
 
 ---
 
@@ -18,6 +22,10 @@ Clarification → Ultrafiltration (UF) → Gel Filtration (PG) → Ion Exchange 
 ```
 
 **Target variable:** `GY_011 PSV - Global Yield total [%]` — the percentage of antigen that reaches the PSV stage across the full pipeline.
+
+![Stage Yield Comparison](outputs/descriptive_analysis/yield_comparison_IP1_IP3.png)
+
+*Yield distributions per stage for IP1 (ST1) and IP3 (ST3). UF is the most efficient step (median ~90%). Clarification and Global Yield show the highest batch-to-batch variability and the largest gap between serotypes.*
 
 ---
 
@@ -89,6 +97,14 @@ Pearson correlation + AUC-based selection applied per stage (local target) and g
 - **PG Ag content ELISA** (r ≈ 0.32–0.39) — gel filtration quality
 - **DEAE sensor signals** (UV Elution, PIC_I1, Accumulated Volume)
 
+![Feature Ranking](outputs/descriptive_analysis/regression_feature_ranking.png)
+
+*Top 14 features by absolute Pearson |r| averaged across IP1 and IP3. Orange = SAP process parameters, Blue = chromatography sensor features, Green = event log aggregates. Features marked \* were selected in one serotype only.*
+
+![PSV Global Pearson r — IP1](outputs/feature_selection/charts_v5/IP1_psv_global_global_pearson.png)
+
+*Per-feature Pearson r against Global Yield for IP1. PSV Ag total (r = 0.60) and PSV Ag content ELISA (r = 0.58) are the dominant positive predictors. PSV Ratio prot/Ag and Purification factor are negatively correlated, reflecting the trade-off between protein removal and antigen retention.*
+
 ### 4. Modeling
 Stage-by-stage regression for each serotype (IP1, IP3). Three model families evaluated:
 
@@ -101,8 +117,13 @@ Stage-by-stage regression for each serotype (IP1, IP3). Three model families eva
 **Evaluation:** NRMSE (primary), RMSE, R² on chronological 80/20 hold-out split (no random shuffle).
 
 **Best results (Global Yield — HGB):**
-- IP1: NRMSE = 0.042, RMSE = 1.49%, R² = 0.778
-- IP3: NRMSE = 0.042, RMSE = 1.40%, R² = 0.664
+
+| Serotype | NRMSE | RMSE | R² |
+|----------|-------|------|----|
+| IP1 (ST1) | 0.042 | 1.49% | **0.778** |
+| IP3 (ST3) | 0.042 | 1.40% | **0.664** |
+
+The HGB model explains 78% of yield variance for IP1 and 66% for IP3, with a prediction error of ~1.5 percentage points — within the operational tolerance range for process decisions.
 
 ---
 
