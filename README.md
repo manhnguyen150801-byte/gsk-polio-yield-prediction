@@ -1,8 +1,6 @@
 # GSK × IÉSEG Hackathon — AI Yield Prediction for Polio Vaccine Purification
 
-**Title:** New AI methodologies to analyze the production process and improve yield  
-**Team:** Alejandro Vallin Romo · Duc Manh Nguyen · Rifqi Imanullah · Narmine Baouab  
-**Instructor:** Minh Phan  
+**Title:** New AI methodologies to analyze the production process and improve yield   
 **Partner:** GSK Vaccines
 
 ---
