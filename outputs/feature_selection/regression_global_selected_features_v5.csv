@@ -1,0 +1,100 @@
+Serotype,Stage,Feature,Pearson_r,Abs_r,P_value,Rank
+IP1,clarif,clarif_D1 8h-Cells count,0.3047,0.3047,0.0039,1
+IP1,clarif,clarif_001 D5 16h-Cells count,0.27,0.27,0.0109,2
+IP1,clarif,clarif_P142-Cells count,0.2224,0.2224,0.0373,3
+IP1,clarif,clarif_D2 8h-NaOH consumption (ml) V,-0.1937,0.1937,0.0706,4
+IP1,deae,DEAE_DEAE - equilibration conducti [mS/cm],-0.2653,0.2653,0.0125,1
+IP1,deae,deae_sensor_MT_I2_OUT_max,0.2203,0.2203,0.0392,2
+IP1,deae,deae_child2_xto_prompt__17_1,0.216,0.216,0.0433,3
+IP1,deae,deae_child2_xto_prompt__9_1,-0.1961,0.1961,0.0671,4
+IP1,deae,deae_child2_xto_cip_201__9_1,0.1942,0.1942,0.0699,5
+IP1,deae,deae_sensor_FIC_C11_max,0.1888,0.1888,0.0782,6
+IP1,deae,deae_sensor_TA_A2_HETP_mean,-0.1818,0.1818,0.0901,7
+IP1,deae,deae_sensor_TA_A2_HETP_min,-0.1818,0.1818,0.0901,8
+IP1,deae,deae_sensor_TA_A2_HETP_max,-0.1818,0.1818,0.0901,9
+IP1,deae,deae_sensor_PIC_I1_min,0.18,0.18,0.0934,10
+IP1,pg,pg_child2_xto_common_20x__34_1,0.287,0.287,0.0067,1
+IP1,pg,pg_child2_xto_control_20x__19_1,0.287,0.287,0.0067,2
+IP1,pg,pg_sensor_RunCalc_UV_ForIntegral_v2_mean,-0.265,0.265,0.0126,3
+IP1,pg,pg_child2_xto_common_20x__40_1,0.2529,0.2529,0.0174,4
+IP1,pg,pg_child2_xto_control_20x__27_1,0.2529,0.2529,0.0174,5
+IP1,pg,pg_child2_xto_outlet_20x__12_1,0.2486,0.2486,0.0195,6
+IP1,pg,pg_child2_xto_common_20x__13_1,-0.2357,0.2357,0.0271,7
+IP1,pg,pg_child2_xto_control_20x__2_1,-0.2357,0.2357,0.027,8
+IP1,pg,pg_child2_xto_inlet_20x__8_1,-0.2357,0.2357,0.0271,9
+IP1,pg,pg_child2_xto_inline_201__3_1,-0.2356,0.2356,0.0271,10
+IP1,psv_global,PSV_PSV - Ag total,0.5969,0.5969,0.0,1
+IP1,psv_global,PSV_005 PSV - Ag content Elisa [DU/ml],0.5774,0.5774,0.0,2
+IP1,psv_global,GY_PSV - Ratio prot/Ag,-0.2619,0.2619,0.0137,3
+IP1,psv_global,PSV_020 PSV - Protein/dose (Lowry) [µg of pr,-0.2591,0.2591,0.0148,4
+IP1,uf,UF_Clarif - % elimina. prot.tot [%],-0.209,0.209,0.0507,1
+IP2,clarif,clarif_D3 AM-cell count Cell,0.3227,0.3227,0.082,1
+IP2,clarif,clarif_D4 AM-cell count Cell,0.3207,0.3207,0.084,2
+IP2,clarif,clarif_Vol medium transf day 4 [Liter],0.3186,0.3186,0.0862,3
+IP2,clarif,clarif_Vol medium transf day 3 [Liter],0.3176,0.3176,0.0872,4
+IP2,clarif,clarif_Vol medium transf day 5 [Liter],0.3171,0.3171,0.0877,5
+IP2,clarif,clarif_Perf 1vol1/2-Vol medium tr. [Liter],-0.3116,0.3116,0.0937,6
+IP2,deae,deae_child2_xto_alarm_201__1_1,0.5102,0.5102,0.004,1
+IP2,deae,deae_child2_xto_inline_201__2_1,0.5086,0.5086,0.0041,2
+IP2,deae,DEAE_018 DEAE - Max load prot/g Gel,-0.5067,0.5067,0.0043,3
+IP2,deae,DEAE_PG - % elimination prot tot [%],-0.5049,0.5049,0.0044,4
+IP2,deae,deae_child2_xto_cip_201__1_1,0.5049,0.5049,0.0044,5
+IP2,deae,deae_child2_xto_control_20x__1_1,0.5043,0.5043,0.0045,6
+IP2,deae,deae_child2_xto_inlet_20x__1_1,0.5043,0.5043,0.0045,7
+IP2,deae,deae_child2_xto_outlet_20x__1_1,0.5039,0.5039,0.0045,8
+IP2,deae,DEAE_PG - % elimination prot. [%],-0.5022,0.5022,0.0047,9
+IP2,deae,DEAE_PG - Purification factor,-0.484,0.484,0.0067,10
+IP2,pg,PG_PG - Prot total [mg],-0.5069,0.5069,0.0043,1
+IP2,pg,PG_UF - Purification factor,-0.5058,0.5058,0.0044,2
+IP2,pg,PG_017 PG - Protein by Lowry [µg/ml],-0.502,0.502,0.0047,3
+IP2,pg,PG_UF - % elimination prot tot [%],-0.492,0.492,0.0057,4
+IP2,pg,PG_UF - % elimination prot. [%],-0.4371,0.4371,0.0157,5
+IP2,pg,pg_sensor_AI_A3_min,0.3704,0.3704,0.0439,6
+IP2,pg,PG_UF - Ratio prot/Ag,-0.3627,0.3627,0.0489,7
+IP2,pg,pg_sensor_AI_A3_std,-0.3474,0.3474,0.0599,8
+IP2,pg,pg_sensor_TI_A1_max,-0.3455,0.3455,0.0615,9
+IP2,pg,pg_sensor_AI_A1_mean,-0.3259,0.3259,0.0788,10
+IP2,psv_global,GY_PSV - Purification factor,-0.5246,0.5246,0.0029,1
+IP2,psv_global,GY_PSV - % elimination prot. [%],-0.5087,0.5087,0.0041,2
+IP2,psv_global,PSV_020 PSV - Protein/dose (Lowry) [µg of pr,-0.4654,0.4654,0.0095,3
+IP2,psv_global,GY_PSV - Ratio prot/Ag,-0.454,0.454,0.0117,4
+IP2,psv_global,PSV_PSV - Flow average,-0.3519,0.3519,0.0565,5
+IP2,psv_global,PSV_005 PSV - Ag content Elisa [DU/ml],0.3125,0.3125,0.0927,6
+IP2,uf,UF_016 UF - Protein by Lowry [µg/ml],-0.4924,0.4924,0.0057,1
+IP2,uf,UF_UF - Prot total [mg],-0.4649,0.4649,0.0096,2
+IP2,uf,UF_PG - Volume injected ml [ml],0.3182,0.3182,0.0866,3
+IP2,uf,UF_003 UF - Ag content Elisa [DU/ml],-0.3136,0.3136,0.0915,4
+IP3,clarif,clarif_001 Ag cont Elisa virus cult [DU/ml],-0.3122,0.3122,0.0032,1
+IP3,clarif,clarif_001 D5 16h-Cells count,0.2997,0.2997,0.0048,2
+IP3,clarif,clarif_Duration cells pool transfer [Minute],0.2326,0.2326,0.0302,3
+IP3,clarif,clarif_D3 8h-clarif. 2 Volume before [Liter],-0.212,0.212,0.0487,4
+IP3,clarif,clarif_D3 8h-clarif. 2 Volume after [Liter],-0.2004,0.2004,0.0628,5
+IP3,clarif,clarif_D3 8h-clarif. 2 Volume clarif [Liter],-0.1987,0.1987,0.065,6
+IP3,clarif,clarif_014 Protein Lowry virus cult [µg/ml],-0.1883,0.1883,0.0808,7
+IP3,clarif,clarif_Clarif 2 - Duration min [Minute],-0.1866,0.1866,0.0835,8
+IP3,deae,deae_child2_xto_alarm_201__8_1,0.4684,0.4684,0.0,1
+IP3,deae,deae_child2_xto_inline_201__23_1,0.4562,0.4562,0.0,2
+IP3,deae,deae_child2_xto_prompt__6_1,0.4534,0.4534,0.0,3
+IP3,deae,deae_child2_xto_cip_201__11_1,0.4522,0.4522,0.0,4
+IP3,deae,deae_child2_xto_common_20x__46_1,0.4522,0.4522,0.0,5
+IP3,deae,deae_child2_xto_control_20x__16_1,0.4522,0.4522,0.0,6
+IP3,deae,deae_child2_xto_inlet_20x__12_1,0.4522,0.4522,0.0,7
+IP3,deae,deae_child2_xto_outlet_20x__10_1,0.4522,0.4522,0.0,8
+IP3,deae,deae_sensor_UV Elution_mean,0.4146,0.4146,0.0001,9
+IP3,deae,deae_sensor_Accumulated Volume_max,0.3912,0.3912,0.0002,10
+IP3,pg,pg_sensor_Accumulated Volume_mean,0.4401,0.4401,0.0,1
+IP3,pg,pg_sensor_UV Light_min,-0.424,0.424,0.0,2
+IP3,pg,pg_sensor_PIC_A1_max,-0.4196,0.4196,0.0001,3
+IP3,pg,pg_sensor_RunCalc_UV_DuringHarvest_mean,0.3997,0.3997,0.0001,4
+IP3,pg,pg_sensor_FIC_C11_std,-0.3934,0.3934,0.0002,5
+IP3,pg,pg_child2_xto_alarm_201__4_1,0.3897,0.3897,0.0002,6
+IP3,pg,pg_child2_xto_outlet_20x__10_1,0.3849,0.3849,0.0002,7
+IP3,pg,pg_child2_xto_common_20x__22_1,0.3844,0.3844,0.0002,8
+IP3,pg,pg_child2_xto_init_20x__1_1,0.3721,0.3721,0.0004,9
+IP3,pg,pg_sensor_MT_I2_OUT_std,-0.3639,0.3639,0.0005,10
+IP3,psv_global,PSV_PSV - Ag total,0.5512,0.5512,0.0,1
+IP3,psv_global,PSV_005 PSV - Ag content Elisa [DU/ml],0.4674,0.4674,0.0,2
+IP3,psv_global,PSV_PSV - Volume ml [ml],0.328,0.328,0.0019,3
+IP3,psv_global,PSV_PSV - Prot total [mg],0.1902,0.1902,0.0777,4
+IP3,uf,UF_UF - Ag total,0.3205,0.3205,0.0025,1
+IP3,uf,UF_003 UF - Ag content Elisa [DU/ml],0.2988,0.2988,0.0049,2

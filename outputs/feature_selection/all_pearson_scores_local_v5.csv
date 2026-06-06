@@ -1,0 +1,1799 @@
+Serotype,Stage,Feature,Pearson_r,Abs_r,P_value
+IP1,clarif,clarif_Clarif 1 - Flow 340L (L/min),0.1991,0.1991,0.0629
+IP1,clarif,clarif_001 Ag cont Elisa virus cult [DU/ml],-0.1764,0.1764,0.1001
+IP1,clarif,clarif_D3 8h-clarif. 1 Volume before [Liter],0.1291,0.1291,0.2306
+IP1,clarif,clarif_031 Clarif 1-Flow 300L (L/min),0.1274,0.1274,0.237
+IP1,clarif,clarif_D1 WASH 10h-O2 flow rate [Nliter / hour],-0.1214,0.1214,0.2598
+IP1,clarif,clarif_D2 8h-Cells count Cell,-0.1058,0.1058,0.3266
+IP1,clarif,clarif_014 Protein Lowry virus cult [µg/ml],0.0895,0.0895,0.4069
+IP1,clarif,clarif_D0-Viability [%],0.081,0.081,0.4534
+IP1,clarif,clarif_Nr fermentor,0.0795,0.0795,0.4614
+IP1,clarif,clarif_001 D5 16h-Cells count,0.0786,0.0786,0.4668
+IP1,clarif,clarif_D5 8h-Cells count,-0.0758,0.0758,0.4829
+IP1,clarif,clarif_Duration cells pool transfer [Minute],-0.0633,0.0633,0.5579
+IP1,clarif,clarif_D3 8h-clarif. 2 Volume after [Liter],0.0615,0.0615,0.5693
+IP1,clarif,clarif_D2 8h-NaOH consumption (ml) V,-0.0579,0.0579,0.5918
+IP1,clarif,clarif_Clarif 1 - Flow 100L (L/min),0.0492,0.0492,0.6491
+IP1,clarif,clarif_D3 AM-cell count Cell,0.0468,0.0468,0.6647
+IP1,clarif,clarif_D0-Cells count,0.0452,0.0452,0.6759
+IP1,clarif,clarif_D1 8h-Cells count,0.0448,0.0448,0.6784
+IP1,clarif,clarif_D1 WASH 7h-Cells count CF,0.0417,0.0417,0.6998
+IP1,clarif,clarif_Vol medium transf day 3 [Liter],0.038,0.038,0.7254
+IP1,clarif,clarif_Vol medium transf day 4 [Liter],0.038,0.038,0.725
+IP1,clarif,clarif_D3 8h-clarif. 2 Volume before [Liter],0.0362,0.0362,0.7374
+IP1,clarif,clarif_Vol medium transf day 5 [Liter],0.0355,0.0355,0.7424
+IP1,clarif,clarif_Clarif 1 - Duration [Minute],0.0337,0.0337,0.7551
+IP1,clarif,clarif_D4 AM-cell count Cell,0.0325,0.0325,0.764
+IP1,clarif,clarif_D3 8h-pH,0.0232,0.0232,0.8299
+IP1,clarif,clarif_Clarif 1 - Flow 200L (L/min),0.0201,0.0201,0.8527
+IP1,clarif,clarif_D0 - Volume inoculum (ml),0.0174,0.0174,0.8719
+IP1,clarif,clarif_P142-Cells count,-0.0163,0.0163,0.88
+IP1,clarif,clarif_D1 WASH 7h-Cells count CT,-0.014,0.014,0.8967
+IP1,clarif,clarif_D3 8h-clarif. 2 Volume clarif [Liter],0.0065,0.0065,0.9521
+IP1,clarif,clarif_D3 8h-clarif. 1 Volume after [Liter],0.0047,0.0047,0.9657
+IP1,clarif,clarif_Clarif 2 - Duration min [Minute],-0.003,0.003,0.9776
+IP1,clarif,clarif_D3 8h-clarif. 1 Volume clarif [Liter],0.0007,0.0007,0.9948
+IP1,deae,DEAE_DEAE - equilibration conducti [mS/cm],-0.2653,0.2653,0.0125
+IP1,deae,deae_sensor_MT_I2_OUT_max,0.2203,0.2203,0.0392
+IP1,deae,deae_child2_xto_prompt__17_1,0.216,0.216,0.0433
+IP1,deae,deae_child2_xto_prompt__9_1,-0.1961,0.1961,0.0671
+IP1,deae,deae_child2_xto_cip_201__9_1,0.1942,0.1942,0.0699
+IP1,deae,deae_sensor_FIC_C11_max,0.1888,0.1888,0.0782
+IP1,deae,deae_sensor_TA_A2_HETP_mean,-0.1818,0.1818,0.0901
+IP1,deae,deae_sensor_TA_A2_HETP_min,-0.1818,0.1818,0.0901
+IP1,deae,deae_sensor_TA_A2_HETP_max,-0.1818,0.1818,0.0901
+IP1,deae,deae_sensor_PIC_I1_min,0.18,0.18,0.0934
+IP1,deae,deae_sensor_TA_A2_ASYM_mean,0.1775,0.1775,0.098
+IP1,deae,deae_sensor_TA_A2_ASYM_min,0.1775,0.1775,0.098
+IP1,deae,deae_sensor_TA_A2_ASYM_max,0.1775,0.1775,0.098
+IP1,deae,deae_child2_xto_prompt__15_1,-0.1732,0.1732,0.1066
+IP1,deae,deae_child2_xto_common_20x__4_1,-0.1718,0.1718,0.1094
+IP1,deae,deae_child2_xto_prompt__21_1,-0.1704,0.1704,0.1124
+IP1,deae,deae_child2_xto_prompt__6_1,0.1661,0.1661,0.1219
+IP1,deae,deae_sensor_TI_A1_mean,-0.1653,0.1653,0.1238
+IP1,deae,deae_child2_xto_cip_201__11_1,0.1638,0.1638,0.1273
+IP1,deae,deae_child2_xto_common_20x__46_1,0.1638,0.1638,0.1273
+IP1,deae,deae_child2_xto_control_20x__16_1,0.1638,0.1638,0.1273
+IP1,deae,deae_child2_xto_inlet_20x__12_1,0.1638,0.1638,0.1273
+IP1,deae,deae_child2_xto_outlet_20x__10_1,0.1635,0.1635,0.128
+IP1,deae,deae_child2_xto_alarm_201__8_1,0.1598,0.1598,0.137
+IP1,deae,deae_child2_xto_common_20x__15_1,0.1589,0.1589,0.1392
+IP1,deae,deae_sensor_Accumulated Volume_std,0.1586,0.1586,0.14
+IP1,deae,deae_child2_xto_inline_201__23_1,0.1572,0.1572,0.1435
+IP1,deae,deae_child2_xto_outlet_20x__15_1,0.1567,0.1567,0.1448
+IP1,deae,deae_child2_xto_init_20x__3_1,0.1501,0.1501,0.1629
+IP1,deae,deae_child2_xto_inlet_20x__19_1,0.1488,0.1488,0.1664
+IP1,deae,deae_child2_xto_inline_201__19_1,0.1488,0.1488,0.1664
+IP1,deae,deae_child2_xto_control_20x__7_1,-0.1487,0.1487,0.1669
+IP1,deae,deae_sensor_TI_A2_min,-0.1459,0.1459,0.1749
+IP1,deae,deae_child2_xto_control_20x__21_1,0.1442,0.1442,0.1801
+IP1,deae,deae_child2_xto_cip_201__6_1,0.1438,0.1438,0.1815
+IP1,deae,deae_child2_xto_common_20x__32_1,0.1438,0.1438,0.1815
+IP1,deae,deae_sensor_RunCalc_UV_ForIntegral_v2_max,0.1436,0.1436,0.1819
+IP1,deae,deae_sub_pc4,0.1429,0.1429,0.1842
+IP1,deae,deae_child2_xto_cip_201__5_1,0.1423,0.1423,0.1859
+IP1,deae,DEAE_PG - Ratio prot/Ag,-0.1402,0.1402,0.1927
+IP1,deae,deae_sensor_RunCalc_UV_DuringHarvest_max,0.1401,0.1401,0.1929
+IP1,deae,deae_child2_xto_common_20x__40_1,0.1396,0.1396,0.1946
+IP1,deae,DEAE_DEAE - equilibration pH delta,-0.1383,0.1383,0.1986
+IP1,deae,deae_child2_xto_inline_201__27_1,0.1375,0.1375,0.2015
+IP1,deae,deae_child2_xto_inlet_20x__16_1,0.1374,0.1374,0.2018
+IP1,deae,ev_pg_up4_mean_duration_h,-0.1364,0.1364,0.2051
+IP1,deae,deae_sensor_TA_O1_HETP_mean,-0.1361,0.1361,0.206
+IP1,deae,deae_child2_xto_prompt__14_1,0.1358,0.1358,0.2071
+IP1,deae,deae_child2_xto_inline_201__5_1,-0.1357,0.1357,0.2074
+IP1,deae,deae_child2_xto_control_20x__23_1,0.1339,0.1339,0.2136
+IP1,deae,deae_child2_xto_common_20x__36_1,0.1337,0.1337,0.2142
+IP1,deae,deae_child2_xto_control_20x__22_1,0.1337,0.1337,0.2142
+IP1,deae,deae_child2_xto_prompt__12_1,0.1329,0.1329,0.2171
+IP1,deae,deae_child2_xto_alarm_201__6_1,0.1315,0.1315,0.2221
+IP1,deae,deae_child2_xto_outlet_20x__21_1,-0.1314,0.1314,0.2225
+IP1,deae,deae_sensor_Accumulated Volume_max,0.1308,0.1308,0.2243
+IP1,deae,deae_child2_xto_common_20x__21_1,-0.1298,0.1298,0.2282
+IP1,deae,deae_child2_xto_control_20x__6_1,-0.1298,0.1298,0.2282
+IP1,deae,deae_child2_xto_outlet_20x__12_1,0.1298,0.1298,0.2283
+IP1,deae,deae_child2_xto_common_20x__56_1,0.1288,0.1288,0.2317
+IP1,deae,deae_sub_pc2,0.1275,0.1275,0.2364
+IP1,deae,deae_sensor_RunCalc_UV_DuringHarvest_std,0.1267,0.1267,0.2396
+IP1,deae,deae_sensor_UV Light_mean,0.1245,0.1245,0.2476
+IP1,deae,deae_child2_xto_outlet_20x__3_1,0.1213,0.1213,0.2604
+IP1,deae,deae_sensor_RunCalc_UV_ForIntegral_v2_min,0.12,0.12,0.2655
+IP1,deae,deae_sensor_RunCalc_UV_ForIntegral_v2_std,0.1175,0.1175,0.2754
+IP1,deae,deae_child2_xto_alarm_201__3_1,0.1169,0.1169,0.278
+IP1,deae,ev_pg_up4_n_events,0.1165,0.1165,0.2797
+IP1,deae,ev_pg_up4_std_duration_h,-0.1157,0.1157,0.2832
+IP1,deae,deae_child2_xto_inline_201__12_1,0.1157,0.1157,0.2831
+IP1,deae,deae_sensor_MT_I2_OUT_min,-0.1156,0.1156,0.2835
+IP1,deae,deae_child2_xto_common_20x__25_1,0.1149,0.1149,0.2866
+IP1,deae,deae_child2_xto_control_20x__10_1,0.1149,0.1149,0.2863
+IP1,deae,deae_child2_xto_control_20x__11_1,0.1149,0.1149,0.2866
+IP1,deae,deae_child2_xto_inline_201__13_1,0.1147,0.1147,0.2872
+IP1,deae,deae_child2_xto_common_20x__2_1,0.1133,0.1133,0.2931
+IP1,deae,deae_child2_xto_outlet_20x__6_1,0.1133,0.1133,0.2931
+IP1,deae,deae_child2_xto_prompt__11_1,0.1125,0.1125,0.2966
+IP1,deae,deae_child2_xto_inlet_20x__4_1,0.1123,0.1123,0.2974
+IP1,deae,deae_child2_xto_init_20x__1_1,0.1116,0.1116,0.3006
+IP1,deae,deae_child2_xto_outlet_20x__26_1,0.111,0.111,0.3032
+IP1,deae,ev_pg_up4_max_duration_h,-0.1095,0.1095,0.31
+IP1,deae,deae_sensor_TI_A2_mean,-0.1082,0.1082,0.3155
+IP1,deae,DEAE_DEAE - equilibration pH OUT,0.107,0.107,0.3209
+IP1,deae,deae_child2_xto_prompt__20_1,-0.1043,0.1043,0.3337
+IP1,deae,deae_child2_xto_inline_201__1_1,0.1025,0.1025,0.3419
+IP1,deae,DEAE_DEAE - pH after adding,-0.1022,0.1022,0.3435
+IP1,deae,ev_pg_deae_up1_total_duration_h,0.1019,0.1019,0.3449
+IP1,deae,ev_deae_up12_total_duration_h,0.1012,0.1012,0.3481
+IP1,deae,deae_sensor_UV Light_std,0.101,0.101,0.3493
+IP1,deae,deae_sensor_RunCalc_UV_DuringHarvest_mean,0.1003,0.1003,0.3525
+IP1,deae,deae_sensor_PIC_A1_std,0.1,0.1,0.3539
+IP1,deae,ev_pg_deae_up5_std_duration_h,0.098,0.098,0.3639
+IP1,deae,deae_sensor_UV Elution_mean,0.0979,0.0979,0.3642
+IP1,deae,deae_child2_xto_prompt__22_1,0.0979,0.0979,0.3641
+IP1,deae,deae_child2_xto_control_20x__20_1,0.0977,0.0977,0.3651
+IP1,deae,deae_child2_xto_inlet_20x__14_1,0.0977,0.0977,0.3651
+IP1,deae,deae_child2_xto_common_20x__35_1,0.0974,0.0974,0.3668
+IP1,deae,deae_child2_xto_outlet_20x__13_1,0.0974,0.0974,0.3668
+IP1,deae,deae_sensor_TI_A2_max,-0.097,0.097,0.3685
+IP1,deae,deae_sensor_AI_A2_mean,-0.0967,0.0967,0.3699
+IP1,deae,deae_child2_xto_common_20x__50_1,0.0955,0.0955,0.3759
+IP1,deae,ev_pg_deae_up1_max_duration_h,0.0945,0.0945,0.3811
+IP1,deae,ev_deae_up12_max_duration_h,0.0945,0.0945,0.3811
+IP1,deae,deae_sub_pc1,-0.0935,0.0935,0.3864
+IP1,deae,deae_sensor_FIC_C11_min,-0.0931,0.0931,0.3882
+IP1,deae,deae_child2_xto_common_20x__23_1,0.0924,0.0924,0.3921
+IP1,deae,deae_child2_xto_outlet_20x__4_1,0.0924,0.0924,0.3919
+IP1,deae,deae_child2_xto_control_20x__8_1,0.0923,0.0923,0.3925
+IP1,deae,deae_child2_xto_prompt__3_1,0.0923,0.0923,0.3922
+IP1,deae,deae_sensor_TI_A1_min,-0.0922,0.0922,0.3931
+IP1,deae,deae_child2_xto_inlet_20x__10_1,0.0922,0.0922,0.3928
+IP1,deae,deae_sensor_PIC_A1_min,0.0917,0.0917,0.3953
+IP1,deae,deae_child2_xto_inline_201__10_1,0.0898,0.0898,0.4051
+IP1,deae,deae_child2_xto_control_20x__33_1,0.0895,0.0895,0.4068
+IP1,deae,deae_child2_xto_common_20x__1_1,0.0887,0.0887,0.411
+IP1,deae,deae_child2_xto_alarm_201__1_1,0.0867,0.0867,0.4219
+IP1,deae,deae_child2_xto_prompt__8_1,-0.0857,0.0857,0.4272
+IP1,deae,deae_sensor_AI_A3_std,-0.0834,0.0834,0.4396
+IP1,deae,deae_child2_xto_init_20x__2_1,0.0827,0.0827,0.4437
+IP1,deae,deae_sensor_PIC_A1_max,0.0822,0.0822,0.4466
+IP1,deae,deae_child2_xto_inlet_20x__6_1,-0.0809,0.0809,0.4535
+IP1,deae,deae_child2_xto_common_20x__34_1,-0.0804,0.0804,0.4565
+IP1,deae,deae_child2_xto_control_20x__19_1,-0.0804,0.0804,0.4563
+IP1,deae,deae_child2_xto_outlet_20x__24_1,-0.0804,0.0804,0.4565
+IP1,deae,deae_child2_xto_inlet_20x__9_1,0.0789,0.0789,0.4651
+IP1,deae,deae_sensor_PI_A2_max,0.0788,0.0788,0.4657
+IP1,deae,deae_sensor_RunCalc_UV_ForIntegral_v2_mean,0.0787,0.0787,0.4659
+IP1,deae,deae_child2_xto_outlet_20x__14_1,0.0785,0.0785,0.4671
+IP1,deae,ev_deae_up12_mean_duration_h,0.078,0.078,0.47
+IP1,deae,deae_child2_xto_common_20x__33_1,0.0774,0.0774,0.4733
+IP1,deae,DEAE_DEAE - Stock duration pool PG,0.0769,0.0769,0.4762
+IP1,deae,deae_child2_xto_inline_201__15_1,0.0753,0.0753,0.4859
+IP1,deae,deae_child2_xto_common_20x__37_1,0.0752,0.0752,0.486
+IP1,deae,deae_sensor_Accumulated Volume_mean,0.075,0.075,0.4872
+IP1,deae,deae_child2_xto_prompt__10_1,0.0729,0.0729,0.4995
+IP1,deae,deae_sensor_XV-O1_ZSO_std,0.0728,0.0728,0.5004
+IP1,deae,deae_sensor_PI_A2_min,-0.0723,0.0723,0.5031
+IP1,deae,ev_pg_deae_up1_mean_duration_h,0.0719,0.0719,0.5055
+IP1,deae,DEAE_DEAE - volume HCl [ml],0.0718,0.0718,0.5063
+IP1,deae,deae_sensor_Accumulated Volume_min,-0.0712,0.0712,0.5097
+IP1,deae,deae_child2_xto_inline_201__8_1,0.0712,0.0712,0.51
+IP1,deae,deae_child2_xto_control_20x__26_1,-0.0707,0.0707,0.5128
+IP1,deae,deae_child2_xto_common_20x__39_1,-0.0706,0.0706,0.5136
+IP1,deae,deae_child2_xto_outlet_20x__18_1,-0.0705,0.0705,0.5137
+IP1,deae,deae_child2_xto_common_20x__42_1,0.0703,0.0703,0.5149
+IP1,deae,deae_child2_xto_alarm_201__4_1,0.0702,0.0702,0.5159
+IP1,deae,DEAE_DEAE - Hydratation duration [Minute],0.0699,0.0699,0.5176
+IP1,deae,deae_child2_xto_prompt__1_1,0.0691,0.0691,0.5223
+IP1,deae,deae_child2_xto_common_20x__14_1,0.069,0.069,0.5227
+IP1,deae,deae_child2_xto_control_20x__3_1,0.069,0.069,0.5227
+IP1,deae,deae_child2_xto_control_20x__24_1,0.0689,0.0689,0.5233
+IP1,deae,deae_sensor_RunCalc_UV_DuringHarvest_min,0.0684,0.0684,0.5268
+IP1,deae,deae_child2_xto_inlet_20x__15_1,-0.0677,0.0677,0.5307
+IP1,deae,deae_sub_pc3,0.0677,0.0677,0.5307
+IP1,deae,deae_child2_xto_common_20x__43_1,0.0676,0.0676,0.5314
+IP1,deae,deae_child2_xto_control_20x__30_1,0.0676,0.0676,0.5314
+IP1,deae,deae_sensor_PIC_I1_std,0.0647,0.0647,0.5494
+IP1,deae,deae_sensor_AI_A1_mean,-0.0641,0.0641,0.5527
+IP1,deae,DEAE_DEAE - Height of gel [Centimeter],0.064,0.064,0.5534
+IP1,deae,DEAE_DEAE - Volume of gel [Liter],0.064,0.064,0.5534
+IP1,deae,deae_child2_xto_common_20x__3_1,0.0635,0.0635,0.5564
+IP1,deae,deae_child2_xto_control_20x__17_1,0.0635,0.0635,0.5564
+IP1,deae,deae_child2_xto_prompt__2_1,0.0627,0.0627,0.5614
+IP1,deae,deae_sensor_PIC_A1_mean,0.0611,0.0611,0.5716
+IP1,deae,deae_sensor_MT_I1_OUT_max,0.0609,0.0609,0.5732
+IP1,deae,deae_sensor_AI_A3_max,-0.0603,0.0603,0.5766
+IP1,deae,deae_child2_xto_common_20x__6_1,-0.0591,0.0591,0.5845
+IP1,deae,deae_sensor_TI_A1_max,0.0572,0.0572,0.5965
+IP1,deae,deae_child2_xto_control_20x__35_1,0.0571,0.0571,0.597
+IP1,deae,deae_child1_op12_batch_process_deae_1_1,0.056,0.056,0.6044
+IP1,deae,deae_child2_xto_common_20x__29_1,-0.056,0.056,0.6041
+IP1,deae,deae_sensor_AI_A1_std,-0.0544,0.0544,0.6148
+IP1,deae,deae_child2_xto_prompt__4_1,-0.054,0.054,0.6173
+IP1,deae,deae_child2_xto_inlet_20x__20_1,-0.0535,0.0535,0.6209
+IP1,deae,deae_sensor_XV-O1_ZSO_mean,-0.0525,0.0525,0.6268
+IP1,deae,deae_sub_pc5,0.0521,0.0521,0.6295
+IP1,deae,DEAE_PG - % elimination prot. [%],-0.052,0.052,0.6306
+IP1,deae,deae_sensor_AI_A2_max,-0.0516,0.0516,0.6332
+IP1,deae,ev_pg_deae_up5_mean_duration_h,-0.0502,0.0502,0.6423
+IP1,deae,ev_pg_deae_up5_max_duration_h,-0.0501,0.0501,0.6428
+IP1,deae,deae_sensor_MT_I1_OUT_mean,-0.0491,0.0491,0.6497
+IP1,deae,deae_child2_xto_common_20x__5_1,0.0488,0.0488,0.6518
+IP1,deae,ev_pg_deae_up5_n_events,-0.0482,0.0482,0.6555
+IP1,deae,deae_sensor_AI_A1_max,-0.0479,0.0479,0.658
+IP1,deae,deae_child2_xto_cip_201__2_1,0.0474,0.0474,0.6613
+IP1,deae,deae_child2_xto_common_20x__11_1,0.0474,0.0474,0.6613
+IP1,deae,deae_child2_xto_inline_201__17_1,0.0474,0.0474,0.661
+IP1,deae,ev_pg_up4_total_duration_h,-0.0473,0.0473,0.6618
+IP1,deae,deae_child2_xto_outlet_20x__2_1,0.0467,0.0467,0.6655
+IP1,deae,ev_pg_deae_up1_n_events,0.0463,0.0463,0.6681
+IP1,deae,deae_child2_xto_prompt__13_1,0.0463,0.0463,0.6681
+IP1,deae,ev_pg_deae_up5_total_duration_h,0.0454,0.0454,0.6745
+IP1,deae,deae_sensor_MT_I2_OUT_std,0.0452,0.0452,0.6756
+IP1,deae,deae_sensor_PI_A2_std,0.0451,0.0451,0.6768
+IP1,deae,DEAE_DEAE - pH pool DEAE,0.0449,0.0449,0.6779
+IP1,deae,deae_child2_xto_control_20x__34_1,-0.0448,0.0448,0.6788
+IP1,deae,deae_sensor_PIC_I1_mean,0.0444,0.0444,0.6813
+IP1,deae,deae_child2_xto_control_20x__29_1,0.0437,0.0437,0.6863
+IP1,deae,deae_sensor_AI_A2_min,0.0434,0.0434,0.6882
+IP1,deae,deae_child2_xto_outlet_20x__20_1,0.0432,0.0432,0.6895
+IP1,deae,deae_child2_xto_prompt__7_1,0.0432,0.0432,0.6892
+IP1,deae,DEAE_018 DEAE - Max load prot/g Gel,-0.0426,0.0426,0.6937
+IP1,deae,deae_child2_xto_inline_201__6_1,0.0426,0.0426,0.6933
+IP1,deae,deae_child2_xto_inlet_20x__3_1,0.042,0.042,0.6974
+IP1,deae,deae_child2_xto_outlet_20x__7_1,0.0417,0.0417,0.6999
+IP1,deae,deae_sensor_MT_I2_OUT_mean,-0.0416,0.0416,0.7002
+IP1,deae,ev_deae_up12_n_events,0.0406,0.0406,0.7072
+IP1,deae,deae_child2_xto_cip_201__7_1,-0.0397,0.0397,0.7133
+IP1,deae,deae_sensor_TI_A1_std,0.0396,0.0396,0.7141
+IP1,deae,deae_sensor_PIC_I1_max,0.0392,0.0392,0.7169
+IP1,deae,deae_child2_xto_inline_201__18_1,0.0387,0.0387,0.7204
+IP1,deae,deae_child2_xto_control_20x__2_1,0.0386,0.0386,0.7209
+IP1,deae,deae_child2_xto_inlet_20x__8_1,0.0386,0.0386,0.7212
+IP1,deae,deae_child2_xto_common_20x__13_1,0.0384,0.0384,0.7225
+IP1,deae,deae_child2_xto_common_20x__16_1,0.0374,0.0374,0.7297
+IP1,deae,deae_sensor_TI_A2_std,0.0356,0.0356,0.7416
+IP1,deae,DEAE_PG - Purification factor,0.0355,0.0355,0.7428
+IP1,deae,deae_sensor_AI_A3_mean,-0.0355,0.0355,0.7428
+IP1,deae,deae_sensor_PIC_I1_OUT_mean,-0.0353,0.0353,0.7444
+IP1,deae,deae_sensor_UV Elution_std,0.035,0.035,0.7461
+IP1,deae,deae_child2_xto_common_20x__20_1,0.034,0.034,0.7535
+IP1,deae,deae_child2_xto_control_20x__5_1,0.034,0.034,0.7535
+IP1,deae,deae_child2_xto_inline_201__4_1,0.033,0.033,0.7604
+IP1,deae,deae_sensor_AI_A2_std,-0.0316,0.0316,0.7704
+IP1,deae,deae_child2_xto_alarm_201__5_1,0.0301,0.0301,0.7805
+IP1,deae,deae_sensor_MT_I1_OUT_min,-0.0294,0.0294,0.7854
+IP1,deae,deae_child2_xto_common_20x__28_1,0.0291,0.0291,0.7875
+IP1,deae,deae_child2_xto_inline_201__9_1,0.0285,0.0285,0.7922
+IP1,deae,DEAE_026 DEAE - Bioburden [CFU/ml],-0.0284,0.0284,0.7931
+IP1,deae,deae_child2_xto_common_20x__27_1,0.0274,0.0274,0.8
+IP1,deae,deae_child2_xto_inline_201__14_1,0.0274,0.0274,0.8003
+IP1,deae,deae_child2_xto_outlet_20x__5_1,0.0274,0.0274,0.7998
+IP1,deae,deae_child2_xto_control_20x__13_1,0.0273,0.0273,0.8006
+IP1,deae,deae_child2_xto_common_20x__26_1,0.027,0.027,0.8027
+IP1,deae,deae_child2_xto_control_20x__12_1,0.0265,0.0265,0.8064
+IP1,deae,ev_deae_up12_std_duration_h,0.0262,0.0262,0.8088
+IP1,deae,deae_child2_xto_common_20x__57_1,-0.0248,0.0248,0.8187
+IP1,deae,deae_child2_xto_prompt__16_1,-0.0248,0.0248,0.8187
+IP1,deae,ev_pg_deae_up1_std_duration_h,0.0229,0.0229,0.8326
+IP1,deae,deae_child1_op13_user_request_2_1,0.0224,0.0224,0.8361
+IP1,deae,deae_child2_xto_control_20x__1_1,0.0224,0.0224,0.8358
+IP1,deae,deae_child2_xto_inlet_20x__1_1,0.0224,0.0224,0.8358
+IP1,deae,DEAE_DEAE - Volume harvested ml [ml],0.0218,0.0218,0.8401
+IP1,deae,deae_child2_xto_control_20x__31_1,-0.0217,0.0217,0.8408
+IP1,deae,deae_child2_xto_inline_201__16_1,-0.0217,0.0217,0.8408
+IP1,deae,deae_child2_xto_outlet_20x__16_1,-0.0217,0.0217,0.8408
+IP1,deae,deae_sensor_AI_A3_min,0.0214,0.0214,0.8431
+IP1,deae,DEAE_DEAE - equilibration pH IN,0.0207,0.0207,0.848
+IP1,deae,deae_sensor_PIC_I1_OUT_min,0.0203,0.0203,0.8512
+IP1,deae,deae_sensor_UV Light_max,-0.02,0.02,0.8533
+IP1,deae,deae_child2_xto_inlet_20x__17_1,-0.0199,0.0199,0.8539
+IP1,deae,deae_child2_xto_common_20x__22_1,-0.0181,0.0181,0.867
+IP1,deae,deae_child2_xto_common_20x__7_1,-0.018,0.018,0.8679
+IP1,deae,deae_sensor_MT_I1_OUT_std,0.0179,0.0179,0.8684
+IP1,deae,DEAE_PG - % elimination prot tot [%],-0.0166,0.0166,0.8776
+IP1,deae,deae_child2_xto_cip_201__4_1,-0.0154,0.0154,0.8869
+IP1,deae,deae_child2_xto_cip_201__10_1,0.0145,0.0145,0.8936
+IP1,deae,deae_child2_xto_common_20x__41_1,0.0145,0.0145,0.8937
+IP1,deae,deae_child2_xto_control_20x__28_1,0.0144,0.0144,0.8942
+IP1,deae,deae_child2_xto_common_20x__24_1,-0.0143,0.0143,0.8947
+IP1,deae,deae_child2_xto_inlet_20x__7_1,0.0143,0.0143,0.8948
+IP1,deae,deae_child2_xto_control_20x__9_1,-0.014,0.014,0.8967
+IP1,deae,deae_child2_xto_outlet_20x__1_1,0.0138,0.0138,0.8981
+IP1,deae,deae_child2_xto_cip_201__1_1,0.0131,0.0131,0.9037
+IP1,deae,deae_child2_xto_inlet_20x__11_1,-0.0125,0.0125,0.9083
+IP1,deae,deae_sensor_FIC_C11_mean,0.012,0.012,0.9116
+IP1,deae,deae_sensor_PI_A2_mean,0.0117,0.0117,0.9141
+IP1,deae,deae_child2_xto_inline_201__2_1,0.011,0.011,0.9186
+IP1,deae,deae_sensor_UV Light_min,0.0106,0.0106,0.9221
+IP1,deae,deae_child2_xto_control_20x__25_1,0.0106,0.0106,0.9218
+IP1,deae,deae_child2_xto_inline_201__22_1,0.0106,0.0106,0.9219
+IP1,deae,deae_child2_xto_common_20x__49_1,0.0104,0.0104,0.9233
+IP1,deae,deae_child2_xto_outlet_20x__19_1,0.0104,0.0104,0.9232
+IP1,deae,deae_child2_xto_control_20x__18_1,-0.0088,0.0088,0.9354
+IP1,deae,deae_child2_xto_common_20x__30_1,0.0083,0.0083,0.9387
+IP1,deae,deae_sensor_AI_A1_min,0.0063,0.0063,0.9536
+IP1,deae,deae_child2_xto_control_20x__36_1,0.0061,0.0061,0.9551
+IP1,deae,deae_child2_xto_outlet_20x__9_1,0.0057,0.0057,0.9582
+IP1,deae,deae_child2_xto_alarm_201__7_1,0.0042,0.0042,0.9689
+IP1,deae,deae_child2_xto_control_20x__15_1,0.0042,0.0042,0.9688
+IP1,deae,deae_child2_xto_control_20x__32_1,0.0042,0.0042,0.9693
+IP1,deae,deae_child2_xto_inlet_20x__18_1,0.0042,0.0042,0.9688
+IP1,deae,deae_child2_xto_inline_201__28_1,0.0042,0.0042,0.9688
+IP1,deae,deae_child2_xto_outlet_20x__17_1,0.0042,0.0042,0.9688
+IP1,deae,deae_sensor_FIC_C11_std,0.0033,0.0033,0.976
+IP1,deae,DEAE_DPV - pH M199,-0.0031,0.0031,0.977
+IP1,deae,deae_child2_xto_alarm_201__2_1,-0.0028,0.0028,0.9792
+IP1,deae,deae_child2_xto_control_20x__4_1,-0.0028,0.0028,0.9792
+IP1,deae,deae_child2_xto_inlet_20x__5_1,-0.0028,0.0028,0.9793
+IP1,deae,deae_child2_xto_inline_201__7_1,-0.0028,0.0028,0.9792
+IP1,deae,deae_child2_xto_outlet_20x__8_1,-0.0028,0.0028,0.9792
+IP1,deae,deae_child2_xto_prompt__5_1,0.0025,0.0025,0.9814
+IP1,deae,deae_sensor_PIC_I1_OUT_std,0.0001,0.0001,0.9991
+IP1,pg,pg_sensor_RunCalc_UV_ForIntegral_v2_std,-0.3675,0.3675,0.0004
+IP1,pg,PG_DEAE - Volume injected ml [ml],-0.3555,0.3555,0.0007
+IP1,pg,pg_sensor_RunCalc_UV_ForIntegral_v2_max,-0.3531,0.3531,0.0007
+IP1,pg,pg_sensor_RunCalc_UV_ForIntegral_v2_mean,-0.3506,0.3506,0.0008
+IP1,pg,PG_PG - Ag total,0.3191,0.3191,0.0024
+IP1,pg,PG_004 PG - Ag content Elisa [DU/ml],0.3152,0.3152,0.0028
+IP1,pg,pg_sensor_TI_A1_std,0.3012,0.3012,0.0043
+IP1,pg,pg_child2_xto_control_20x__26_1,0.2932,0.2932,0.0056
+IP1,pg,pg_child2_xto_inlet_20x__12_1,0.2918,0.2918,0.0058
+IP1,pg,pg_child2_xto_cip_201__7_1,0.2881,0.2881,0.0065
+IP1,pg,pg_child2_xto_common_20x__39_1,0.2881,0.2881,0.0065
+IP1,pg,pg_sub_pc4,0.2848,0.2848,0.0072
+IP1,pg,pg_sensor_PIC_I1_OUT_mean,-0.2846,0.2846,0.0072
+IP1,pg,pg_sensor_PIC_I1_OUT_min,-0.2824,0.2824,0.0077
+IP1,pg,pg_sensor_MT_I2_OUT_std,-0.2783,0.2783,0.0087
+IP1,pg,pg_sensor_PI_A2_max,-0.2758,0.2758,0.0093
+IP1,pg,pg_sensor_PIC_I1_OUT_std,0.2637,0.2637,0.013
+IP1,pg,pg_sensor_UV Elution_max,0.2605,0.2605,0.0143
+IP1,pg,pg_sensor_UV Elution_mean,0.2511,0.2511,0.0183
+IP1,pg,pg_sensor_UV Elution_std,0.2414,0.2414,0.0234
+IP1,pg,pg_sub_pc2,-0.2382,0.2382,0.0254
+IP1,pg,pg_sensor_Accumulated Volume_min,-0.2205,0.2205,0.039
+IP1,pg,pg_sensor_AI_A3_min,-0.2198,0.2198,0.0397
+IP1,pg,pg_sensor_TI_A1_max,0.2186,0.2186,0.0408
+IP1,pg,pg_child2_xto_common_20x__32_1,-0.2142,0.2142,0.045
+IP1,pg,pg_child2_xto_control_20x__7_1,-0.2128,0.2128,0.0466
+IP1,pg,pg_child2_xto_inlet_20x__6_1,-0.2128,0.2128,0.0466
+IP1,pg,pg_child2_xto_prompt__14_1,-0.2125,0.2125,0.0469
+IP1,pg,pg_sub_pc5,-0.2122,0.2122,0.0472
+IP1,pg,pg_child2_xto_inline_201__8_1,-0.2121,0.2121,0.0472
+IP1,pg,pg_sensor_AI_A3_mean,-0.2077,0.2077,0.0522
+IP1,pg,pg_sensor_FIC_C11_mean,-0.1943,0.1943,0.0697
+IP1,pg,pg_child2_xto_alarm_201__9_1,-0.1939,0.1939,0.0703
+IP1,pg,pg_child2_xto_outlet_20x__10_1,0.1929,0.1929,0.0718
+IP1,pg,pg_child2_xto_common_20x__20_1,-0.1914,0.1914,0.074
+IP1,pg,pg_child2_xto_control_20x__5_1,-0.1914,0.1914,0.074
+IP1,pg,pg_child2_xto_inlet_20x__3_1,-0.1914,0.1914,0.0741
+IP1,pg,pg_child2_xto_inline_201__4_1,-0.1914,0.1914,0.0741
+IP1,pg,pg_child2_xto_alarm_201__4_1,0.1891,0.1891,0.0776
+IP1,pg,pg_child2_xto_prompt__12_1,0.1882,0.1882,0.079
+IP1,pg,pg_child2_xto_outlet_20x__3_1,-0.1875,0.1875,0.0803
+IP1,pg,pg_child2_xto_prompt__15_1,-0.1866,0.1866,0.0818
+IP1,pg,pg_child2_xto_common_20x__22_1,0.1853,0.1853,0.084
+IP1,pg,pg_sensor_PIC_A1_max,-0.1841,0.1841,0.0859
+IP1,pg,pg_sensor_PIC_I1_max,-0.1819,0.1819,0.0898
+IP1,pg,pg_child2_xto_common_20x__6_1,-0.1814,0.1814,0.0908
+IP1,pg,pg_child2_xto_inline_201__2_1,-0.1811,0.1811,0.0912
+IP1,pg,pg_child2_xto_outlet_20x__12_1,-0.1779,0.1779,0.0972
+IP1,pg,pg_child2_xto_common_20x__24_1,0.1764,0.1764,0.1001
+IP1,pg,pg_child2_xto_control_20x__9_1,0.1764,0.1764,0.1001
+IP1,pg,pg_child2_xto_inlet_20x__11_1,0.1751,0.1751,0.1027
+IP1,pg,pg_sensor_MT_I2_OUT_mean,0.1731,0.1731,0.1067
+IP1,pg,pg_sensor_TI_A1_mean,0.1728,0.1728,0.1074
+IP1,pg,pg_child2_xto_init_20x__1_1,0.172,0.172,0.1091
+IP1,pg,pg_child2_xto_common_20x__42_1,0.171,0.171,0.1111
+IP1,pg,pg_sensor_MT_I1_OUT_std,0.1693,0.1693,0.1149
+IP1,pg,pg_child2_xto_inlet_20x__17_1,0.1645,0.1645,0.1256
+IP1,pg,pg_sensor_AI_A3_max,-0.164,0.164,0.1268
+IP1,pg,pg_sensor_MT_I1_OUT_mean,0.1612,0.1612,0.1336
+IP1,pg,pg_child2_xto_common_20x__40_1,-0.1607,0.1607,0.1348
+IP1,pg,pg_child2_xto_control_20x__27_1,-0.1607,0.1607,0.1348
+IP1,pg,pg_sub_pc3,-0.1595,0.1595,0.1377
+IP1,pg,pg_child2_xto_cip_201__5_1,0.158,0.158,0.1416
+IP1,pg,pg_child2_xto_cip_201__9_1,-0.1565,0.1565,0.1453
+IP1,pg,pg_child2_xto_inline_201__3_1,0.1558,0.1558,0.1471
+IP1,pg,pg_child2_xto_outlet_20x__7_1,0.1558,0.1558,0.1471
+IP1,pg,pg_child2_xto_common_20x__13_1,0.1557,0.1557,0.1474
+IP1,pg,pg_child2_xto_control_20x__2_1,0.1557,0.1557,0.1475
+IP1,pg,pg_child2_xto_inlet_20x__8_1,0.1557,0.1557,0.1474
+IP1,pg,pg_child2_xto_inlet_20x__7_1,-0.1542,0.1542,0.1513
+IP1,pg,pg_sensor_RunCalc_UV_ForIntegral_v2_min,-0.1527,0.1527,0.1555
+IP1,pg,pg_sensor_FIC_C11_max,0.1492,0.1492,0.1654
+IP1,pg,PG_PG - % Volume Column [%],-0.148,0.148,0.1687
+IP1,pg,pg_child2_xto_common_20x__37_1,-0.1475,0.1475,0.1702
+IP1,pg,pg_child2_xto_control_20x__24_1,-0.1475,0.1475,0.1702
+IP1,pg,pg_child2_xto_outlet_20x__11_1,-0.1475,0.1475,0.1702
+IP1,pg,pg_sensor_PI_A2_std,-0.1457,0.1457,0.1756
+IP1,pg,pg_child1_op13_user_request_2_1,0.1456,0.1456,0.1759
+IP1,pg,pg_sensor_MT_I1_OUT_max,0.1397,0.1397,0.1944
+IP1,pg,pg_child2_xto_common_20x__44_1,0.1345,0.1345,0.2115
+IP1,pg,pg_sensor_Accumulated Volume_std,-0.1334,0.1334,0.2152
+IP1,pg,pg_child2_xto_inline_201__11_1,-0.1326,0.1326,0.2182
+IP1,pg,pg_child2_xto_prompt__2_1,0.1323,0.1323,0.2192
+IP1,pg,pg_sensor_TI_A2_mean,0.1317,0.1317,0.2212
+IP1,pg,pg_child2_xto_control_20x__10_1,0.13,0.13,0.2272
+IP1,pg,pg_sensor_RunCalc_UV_DuringHarvest_max,-0.1296,0.1296,0.2286
+IP1,pg,pg_sensor_TI_A2_std,0.1292,0.1292,0.2301
+IP1,pg,pg_child2_xto_common_20x__2_1,0.128,0.128,0.2348
+IP1,pg,pg_child2_xto_alarm_201__8_1,-0.1273,0.1273,0.2371
+IP1,pg,pg_child2_xto_inline_201__12_1,0.1269,0.1269,0.2389
+IP1,pg,pg_child2_xto_outlet_20x__15_1,-0.1245,0.1245,0.2477
+IP1,pg,pg_sensor_AI_A2_max,-0.1232,0.1232,0.2526
+IP1,pg,pg_child2_xto_prompt__1_1,0.1188,0.1188,0.2701
+IP1,pg,pg_sensor_UV Light_max,-0.1172,0.1172,0.2769
+IP1,pg,pg_child2_xto_common_20x__11_1,0.1172,0.1172,0.2768
+IP1,pg,pg_child2_xto_prompt__18_1,-0.1172,0.1172,0.277
+IP1,pg,pg_child2_xto_cip_201__2_1,0.1171,0.1171,0.2773
+IP1,pg,pg_sensor_TA_A2_HETP_mean,0.1153,0.1153,0.2849
+IP1,pg,pg_sensor_TA_A2_HETP_min,0.1153,0.1153,0.2849
+IP1,pg,pg_sensor_TA_A2_HETP_max,0.1153,0.1153,0.2849
+IP1,pg,pg_sensor_AI_A3_std,-0.1117,0.1117,0.3003
+IP1,pg,pg_sensor_Accumulated Volume_max,-0.1113,0.1113,0.3021
+IP1,pg,pg_child2_xto_control_20x__18_1,0.1113,0.1113,0.302
+IP1,pg,pg_child2_xto_common_20x__33_1,0.111,0.111,0.303
+IP1,pg,pg_child2_xto_inline_201__9_1,0.1099,0.1099,0.308
+IP1,pg,pg_child2_xto_outlet_20x__2_1,0.1099,0.1099,0.308
+IP1,pg,pg_sensor_AI_A1_std,-0.109,0.109,0.3122
+IP1,pg,PG_PG - Volume pool PG ml [ml],0.1088,0.1088,0.3128
+IP1,pg,pg_child2_xto_prompt__9_1,0.1056,0.1056,0.3277
+IP1,pg,pg_sensor_PIC_A1_min,0.1054,0.1054,0.3284
+IP1,pg,pg_sensor_PI_A2_mean,-0.1037,0.1037,0.3361
+IP1,pg,pg_child2_xto_control_20x__29_1,0.1021,0.1021,0.3439
+IP1,pg,pg_sensor_Accumulated Volume_mean,-0.1018,0.1018,0.3453
+IP1,pg,pg_child2_xto_inlet_20x__16_1,0.1013,0.1013,0.3475
+IP1,pg,pg_child2_xto_inline_201__6_1,0.1011,0.1011,0.3487
+IP1,pg,PG_017 PG - Protein by Lowry [µg/ml],-0.1006,0.1006,0.3511
+IP1,pg,pg_child2_xto_common_20x__16_1,0.0985,0.0985,0.3613
+IP1,pg,pg_sensor_PIC_A1_std,-0.0984,0.0984,0.3619
+IP1,pg,pg_sensor_PIC_I1_mean,0.0982,0.0982,0.3626
+IP1,pg,pg_child2_xto_control_20x__15_1,0.0959,0.0959,0.3742
+IP1,pg,pg_child2_xto_outlet_20x__14_1,0.0942,0.0942,0.3825
+IP1,pg,pg_child2_xto_common_20x__4_1,0.091,0.091,0.399
+IP1,pg,pg_child2_xto_common_20x__27_1,-0.0908,0.0908,0.4003
+IP1,pg,pg_child2_xto_control_20x__13_1,-0.0908,0.0908,0.4003
+IP1,pg,pg_child2_xto_prompt__13_1,0.0906,0.0906,0.4013
+IP1,pg,PG_PG - Prot total [mg],-0.09,0.09,0.4045
+IP1,pg,pg_sensor_UV Light_std,-0.0889,0.0889,0.4102
+IP1,pg,pg_child2_xto_common_20x__5_1,0.088,0.088,0.4149
+IP1,pg,pg_sensor_XV-O1_ZSO_std,-0.0875,0.0875,0.4176
+IP1,pg,pg_sensor_RunCalc_UV_DuringHarvest_std,-0.0874,0.0874,0.4182
+IP1,pg,pg_child2__gen_get_val_15__1_1,0.0872,0.0872,0.4193
+IP1,pg,pg_child1_op4_batch_process_cl6b_1_1,-0.0864,0.0864,0.4235
+IP1,pg,pg_sensor_TA_O1_HETP_mean,-0.0833,0.0833,0.4402
+IP1,pg,pg_sensor_FIC_C11_std,-0.083,0.083,0.442
+IP1,pg,pg_child2_xto_common_20x__28_1,-0.0826,0.0826,0.4441
+IP1,pg,pg_child2_xto_control_20x__14_1,-0.0826,0.0826,0.4441
+IP1,pg,pg_child2_xto_common_20x__35_1,-0.0822,0.0822,0.4467
+IP1,pg,pg_child2_xto_control_20x__20_1,-0.0822,0.0822,0.4467
+IP1,pg,pg_child2_xto_common_20x__12_1,0.0806,0.0806,0.4555
+IP1,pg,pg_child2_xto_common_20x__15_1,0.0785,0.0785,0.4671
+IP1,pg,pg_child2_xto_init_20x__2_1,0.0781,0.0781,0.4698
+IP1,pg,pg_sensor_RunCalc_UV_DuringHarvest_min,-0.0763,0.0763,0.4796
+IP1,pg,pg_child2_xto_common_20x__46_1,0.0763,0.0763,0.4797
+IP1,pg,pg_child2_xto_alarm_201__6_1,0.0762,0.0762,0.4803
+IP1,pg,pg_child2_xto_inlet_20x__14_1,0.0759,0.0759,0.4822
+IP1,pg,pg_child2_xto_inline_201__15_1,0.0759,0.0759,0.4824
+IP1,pg,pg_child2_xto_control_20x__16_1,0.0758,0.0758,0.4825
+IP1,pg,pg_child2_xto_outlet_20x__19_1,0.0758,0.0758,0.4829
+IP1,pg,pg_child2_xto_cip_201__10_1,0.0757,0.0757,0.4831
+IP1,pg,pg_child2_xto_control_20x__21_1,-0.0757,0.0757,0.4833
+IP1,pg,pg_sensor_AI_A1_min,-0.0709,0.0709,0.5117
+IP1,pg,pg_child2_xto_alarm_201__2_1,0.069,0.069,0.5231
+IP1,pg,pg_child2_xto_control_20x__4_1,0.069,0.069,0.5231
+IP1,pg,pg_child2_xto_inlet_20x__5_1,0.069,0.069,0.5231
+IP1,pg,pg_child2_xto_inline_201__7_1,0.069,0.069,0.5231
+IP1,pg,pg_child2_xto_outlet_20x__8_1,0.069,0.069,0.5231
+IP1,pg,pg_sensor_TA_A2_ASYM_mean,-0.0686,0.0686,0.5255
+IP1,pg,pg_sensor_TA_A2_ASYM_min,-0.0686,0.0686,0.5255
+IP1,pg,pg_sensor_TA_A2_ASYM_max,-0.0686,0.0686,0.5255
+IP1,pg,pg_child2_xto_cip_201__6_1,0.068,0.068,0.5288
+IP1,pg,pg_child2_xto_prompt__4_1,0.0676,0.0676,0.5314
+IP1,pg,pg_sensor_TI_A2_max,0.0674,0.0674,0.5325
+IP1,pg,pg_child2_xto_common_20x__30_1,0.0674,0.0674,0.5324
+IP1,pg,pg_child2_xto_common_20x__1_1,0.0673,0.0673,0.5333
+IP1,pg,pg_child2_xto_prompt__7_1,-0.0672,0.0672,0.5338
+IP1,pg,pg_child2_xto_alarm_201__1_1,0.0669,0.0669,0.5359
+IP1,pg,pg_child2_xto_outlet_20x__17_1,0.0659,0.0659,0.5418
+IP1,pg,pg_child2_xto_inline_201__17_1,-0.0656,0.0656,0.5438
+IP1,pg,pg_child2_xto_outlet_20x__20_1,-0.0656,0.0656,0.5437
+IP1,pg,pg_child2_xto_common_20x__14_1,-0.0655,0.0655,0.544
+IP1,pg,pg_child2_xto_control_20x__3_1,-0.0655,0.0655,0.5443
+IP1,pg,pg_child2_xto_inlet_20x__9_1,-0.0655,0.0655,0.544
+IP1,pg,pg_child2_xto_control_20x__25_1,0.0629,0.0629,0.5603
+IP1,pg,pg_sensor_MT_I2_OUT_max,-0.0625,0.0625,0.5627
+IP1,pg,pg_child2_xto_prompt__3_1,-0.0623,0.0623,0.564
+IP1,pg,pg_sensor_FIC_C11_min,-0.0613,0.0613,0.5708
+IP1,pg,pg_sensor_PI_A2_min,0.0612,0.0612,0.5714
+IP1,pg,pg_sensor_PIC_I1_min,-0.0611,0.0611,0.5717
+IP1,pg,pg_child2_xto_prompt__8_1,0.0609,0.0609,0.573
+IP1,pg,pg_sensor_AI_A2_mean,-0.0607,0.0607,0.574
+IP1,pg,pg_child2_xto_common_20x__38_1,0.0602,0.0602,0.5772
+IP1,pg,pg_sensor_AI_A1_max,-0.0594,0.0594,0.5824
+IP1,pg,pg_sub_pc1,-0.0592,0.0592,0.5839
+IP1,pg,PG_UF - Ratio prot/Ag,0.0591,0.0591,0.5847
+IP1,pg,PG_UF - % elimination prot tot [%],-0.0569,0.0569,0.5988
+IP1,pg,pg_child2_xto_inlet_20x__1_1,0.0566,0.0566,0.6003
+IP1,pg,pg_child2_xto_inline_201__1_1,0.0566,0.0566,0.6003
+IP1,pg,pg_sensor_AI_A2_std,-0.0562,0.0562,0.6028
+IP1,pg,pg_child2_xto_common_20x__3_1,0.0555,0.0555,0.6075
+IP1,pg,pg_child2_xto_prompt__5_1,0.0555,0.0555,0.6076
+IP1,pg,pg_sensor_XV-O1_ZSO_mean,-0.0535,0.0535,0.6206
+IP1,pg,pg_child2_xto_alarm_201__3_1,0.0502,0.0502,0.6426
+IP1,pg,pg_sensor_UV Light_min,-0.0497,0.0497,0.6456
+IP1,pg,pg_child2_xto_common_20x__41_1,-0.0487,0.0487,0.6525
+IP1,pg,pg_child2_xto_control_20x__28_1,-0.0487,0.0487,0.6525
+IP1,pg,pg_child2_xto_inline_201__13_1,-0.0484,0.0484,0.6543
+IP1,pg,pg_child2_xto_control_20x__1_1,0.0481,0.0481,0.6565
+IP1,pg,pg_child2_xto_cip_201__1_1,0.048,0.048,0.6567
+IP1,pg,pg_child2_xto_outlet_20x__1_1,0.048,0.048,0.6566
+IP1,pg,pg_child2_xto_control_20x__11_1,-0.0476,0.0476,0.6597
+IP1,pg,pg_child2_xto_common_20x__25_1,-0.0469,0.0469,0.6641
+IP1,pg,pg_child2_xto_common_20x__29_1,-0.046,0.046,0.6702
+IP1,pg,pg_sensor_AI_A2_min,-0.0455,0.0455,0.6738
+IP1,pg,pg_child2_xto_common_20x__8_1,-0.0445,0.0445,0.6808
+IP1,pg,pg_sensor_AI_A1_mean,-0.0431,0.0431,0.6902
+IP1,pg,pg_child2_xto_outlet_20x__18_1,-0.0412,0.0412,0.7034
+IP1,pg,pg_child2_xto_cip_201__8_1,-0.0409,0.0409,0.7052
+IP1,pg,pg_child2_xto_inlet_20x__13_1,-0.0409,0.0409,0.7052
+IP1,pg,PG_Packing quality HETP/S2 [Centimeter],-0.0391,0.0391,0.7175
+IP1,pg,pg_child2_xto_prompt__10_1,0.0388,0.0388,0.7195
+IP1,pg,pg_sensor_MT_I1_OUT_min,-0.0373,0.0373,0.7298
+IP1,pg,pg_sensor_UV Light_mean,-0.0352,0.0352,0.7448
+IP1,pg,pg_sensor_MT_I2_OUT_min,0.0338,0.0338,0.7544
+IP1,pg,pg_sensor_TI_A1_min,-0.0302,0.0302,0.7798
+IP1,pg,pg_child2_xto_outlet_20x__4_1,0.0301,0.0301,0.781
+IP1,pg,pg_child2_xto_cip_201__4_1,0.0285,0.0285,0.7922
+IP1,pg,pg_child2_xto_common_20x__17_1,0.0282,0.0282,0.7943
+IP1,pg,pg_sensor_PIC_A1_mean,0.028,0.028,0.7957
+IP1,pg,pg_child2_xto_inlet_20x__19_1,0.0267,0.0267,0.8052
+IP1,pg,pg_child2_xto_common_20x__21_1,-0.0263,0.0263,0.8076
+IP1,pg,pg_child2_xto_control_20x__6_1,-0.0263,0.0263,0.8076
+IP1,pg,pg_child2_xto_inline_201__5_1,-0.0258,0.0258,0.8113
+IP1,pg,pg_child2_xto_common_20x__26_1,0.0257,0.0257,0.8119
+IP1,pg,pg_child2_xto_control_20x__12_1,0.0257,0.0257,0.8119
+IP1,pg,pg_child2_xto_outlet_20x__6_1,0.0257,0.0257,0.8124
+IP1,pg,pg_sensor_PIC_I1_std,-0.0254,0.0254,0.814
+IP1,pg,pg_child2_xto_alarm_201__5_1,0.0254,0.0254,0.8146
+IP1,pg,pg_child2_xto_inline_201__14_1,0.0253,0.0253,0.8147
+IP1,pg,pg_child2_xto_outlet_20x__9_1,0.023,0.023,0.8314
+IP1,pg,pg_child2_xto_common_20x__7_1,0.0211,0.0211,0.8449
+IP1,pg,pg_sensor_TI_A2_min,-0.0185,0.0185,0.8643
+IP1,pg,PG_Packing quality HETP/S1 [Centimeter],-0.0175,0.0175,0.8718
+IP1,pg,pg_sensor_RunCalc_UV_DuringHarvest_mean,-0.016,0.016,0.8826
+IP1,pg,pg_child2_xto_prompt__6_1,0.016,0.016,0.8826
+IP1,pg,pg_child2_xto_inline_201__10_1,0.0151,0.0151,0.8889
+IP1,pg,pg_child2_xto_prompt__17_1,0.0149,0.0149,0.8902
+IP1,pg,pg_child2_xto_common_20x__43_1,-0.0146,0.0146,0.8926
+IP1,pg,pg_child2_xto_control_20x__30_1,-0.0146,0.0146,0.8926
+IP1,pg,PG_UF - Purification factor,0.0129,0.0129,0.905
+IP1,pg,pg_child2_xto_common_20x__23_1,-0.0128,0.0128,0.9055
+IP1,pg,pg_child2_xto_control_20x__8_1,-0.0128,0.0128,0.9055
+IP1,pg,pg_child2_xto_inlet_20x__10_1,-0.0127,0.0127,0.9069
+IP1,pg,pg_child2_xto_common_20x__45_1,0.0111,0.0111,0.9183
+IP1,pg,pg_child2_xto_inlet_20x__4_1,0.0094,0.0094,0.9308
+IP1,pg,pg_child2_xto_common_20x__34_1,0.0074,0.0074,0.9455
+IP1,pg,pg_child2_xto_control_20x__19_1,0.0074,0.0074,0.9454
+IP1,pg,pg_child2_xto_common_20x__36_1,0.0073,0.0073,0.9459
+IP1,pg,pg_child2_xto_control_20x__23_1,0.0073,0.0073,0.9459
+IP1,pg,pg_child2_xto_outlet_20x__16_1,0.0073,0.0073,0.9462
+IP1,pg,pg_child2_xto_prompt__16_1,-0.0066,0.0066,0.9517
+IP1,pg,PG_Packing Assymetry/S2,-0.006,0.006,0.9559
+IP1,pg,pg_child2_xto_alarm_201__7_1,0.0048,0.0048,0.9648
+IP1,pg,pg_child2_xto_inline_201__16_1,0.0048,0.0048,0.9648
+IP1,pg,pg_child2_xto_outlet_20x__5_1,0.0047,0.0047,0.9653
+IP1,pg,PG_Packing Assymetry/S1,-0.0034,0.0034,0.9746
+IP1,pg,PG_UF - % elimination prot. [%],-0.0026,0.0026,0.9812
+IP1,psv_global,PSV_PSV - Ag total,0.5969,0.5969,0.0
+IP1,psv_global,PSV_005 PSV - Ag content Elisa [DU/ml],0.5774,0.5774,0.0
+IP1,psv_global,GY_PSV - Ratio prot/Ag,-0.2619,0.2619,0.0137
+IP1,psv_global,PSV_020 PSV - Protein/dose (Lowry) [µg of pr,-0.2591,0.2591,0.0148
+IP1,psv_global,GY_PSV - Purification factor,-0.1747,0.1747,0.1035
+IP1,psv_global,GY_PSV - % elimination prot. [%],-0.1327,0.1327,0.2178
+IP1,psv_global,PSV_021 PSV - BSA content by Elisa [ng/ml],0.1104,0.1104,0.3057
+IP1,psv_global,PSV_PSV - Volume ml [ml],0.079,0.079,0.4644
+IP1,psv_global,PSV_PSV - Prot total [mg],0.0382,0.0382,0.7235
+IP1,psv_global,PSV_PSV - Filtration time [Minute],0.0323,0.0323,0.7654
+IP1,psv_global,PSV_019 PSV - Protein by lowry [µg/ml],0.0238,0.0238,0.826
+IP1,psv_global,PSV_PSV - Flow average,0.001,0.001,0.9929
+IP1,uf,UF_Clarif - Purification factor,0.5511,0.5511,0.0
+IP1,uf,UF_Clarif - Ratio prot/Ag,0.5483,0.5483,0.0
+IP1,uf,UF_003 UF - Ag content Elisa [DU/ml],0.1815,0.1815,0.0906
+IP1,uf,UF_UF - Ag total,0.1592,0.1592,0.1385
+IP1,uf,UF_022 Clarif - pH,0.1298,0.1298,0.228
+IP1,uf,UF_PG - Volume injected ml [ml],0.0981,0.0981,0.3633
+IP1,uf,UF_UF - Volume UFR ml [ml],-0.0585,0.0585,0.5883
+IP1,uf,UF_016 UF - Protein by Lowry [µg/ml],0.0469,0.0469,0.6642
+IP1,uf,UF_UF - Prot total [mg],0.0362,0.0362,0.7376
+IP1,uf,UF_Clarif - % elimina. prot.tot [%],0.0289,0.0289,0.789
+IP1,uf,UF_Clarif - % elimination prot. [%],-0.0055,0.0055,0.9592
+IP2,clarif,clarif_D4 AM-cell count Cell,0.3608,0.3608,0.0501
+IP2,clarif,clarif_Perf 1vol1/2-Vol medium tr. [Liter],-0.3555,0.3555,0.0539
+IP2,clarif,clarif_Vol medium transf day 5 [Liter],0.3498,0.3498,0.0581
+IP2,clarif,clarif_Vol medium transf day 4 [Liter],0.3473,0.3473,0.06
+IP2,clarif,clarif_Nr fermentor,0.3468,0.3468,0.0605
+IP2,clarif,clarif_Vol medium transf day 3 [Liter],0.3464,0.3464,0.0608
+IP2,clarif,clarif_D3 AM-cell count Cell,0.332,0.332,0.0731
+IP2,clarif,clarif_Duration cells pool transfer [Minute],-0.2968,0.2968,0.1112
+IP2,clarif,clarif_001 D5 16h-Cells count,-0.286,0.286,0.1255
+IP2,clarif,clarif_Clarif 1 - Flow 100L (L/min),-0.2763,0.2763,0.1394
+IP2,clarif,clarif_D0-Viability [%],0.2722,0.2722,0.1457
+IP2,clarif,clarif_D2 8h-Cells count Cell,0.2681,0.2681,0.152
+IP2,clarif,clarif_D2 8h-NaOH consumption (ml) V,0.2599,0.2599,0.1654
+IP2,clarif,clarif_D1 WASH 7h-Cells count CF,-0.2422,0.2422,0.1972
+IP2,clarif,clarif_Clarif 1 - Duration [Minute],0.2208,0.2208,0.241
+IP2,clarif,clarif_P142-Cells count,-0.2039,0.2039,0.2798
+IP2,clarif,clarif_D3 8h-pH,0.1262,0.1262,0.5065
+IP2,clarif,clarif_D1 WASH 7h-Cells count CT,0.1021,0.1021,0.5913
+IP2,clarif,clarif_D1 8h-Cells count,0.093,0.093,0.6251
+IP2,clarif,clarif_014 Protein Lowry (virus cult) [µg/ml],-0.0888,0.0888,0.6409
+IP2,clarif,clarif_Clarif 1 - Flow 200L (L/min),-0.0799,0.0799,0.6748
+IP2,clarif,clarif_D5 8h-Cells count,-0.0766,0.0766,0.6874
+IP2,clarif,clarif_Clarif 1 - Flow 340L (L/min),0.067,0.067,0.725
+IP2,clarif,clarif_D1 WASH 10h-O2 flow rate [Nliter / hour],-0.0555,0.0555,0.7707
+IP2,clarif,clarif_Clarif 2 - Duration min [Minute],0.0498,0.0498,0.794
+IP2,clarif,clarif_D3 8h-clarif. 1 Volume before [Liter],0.0421,0.0421,0.8253
+IP2,clarif,clarif_D3 8h-clarif. 1 Volume clarif [Liter],0.0414,0.0414,0.8281
+IP2,clarif,clarif_D3 8h-clarif. 2 Volume after [Liter],0.0403,0.0403,0.8327
+IP2,clarif,clarif_D3 8h-clarif. 2 Volume clarif [Liter],-0.0229,0.0229,0.9045
+IP2,clarif,clarif_D0-Cells count,0.0225,0.0225,0.9061
+IP2,clarif,clarif_D3 8h-clarif. 1 Volume after [Liter],-0.0067,0.0067,0.9721
+IP2,clarif,clarif_001 Ag cont Elisa virus cult [DU/ml],0.0057,0.0057,0.9763
+IP2,clarif,clarif_D3 8h-clarif. 2 Volume before [Liter],-0.0047,0.0047,0.9802
+IP2,clarif,clarif_031 Clarif 1-Flow 300L (L/min),0.0025,0.0025,0.9895
+IP2,clarif,clarif_D0 - Volume inoculum (ml),0.0,0.0,1.0
+IP2,deae,deae_child2_xto_alarm_201__1_1,0.5102,0.5102,0.004
+IP2,deae,deae_child2_xto_inline_201__2_1,0.5086,0.5086,0.0041
+IP2,deae,DEAE_018 DEAE - Max load prot/g Gel,-0.5067,0.5067,0.0043
+IP2,deae,DEAE_PG - % elimination prot tot [%],-0.5049,0.5049,0.0044
+IP2,deae,deae_child2_xto_cip_201__1_1,0.5049,0.5049,0.0044
+IP2,deae,deae_child2_xto_control_20x__1_1,0.5043,0.5043,0.0045
+IP2,deae,deae_child2_xto_inlet_20x__1_1,0.5043,0.5043,0.0045
+IP2,deae,deae_child2_xto_outlet_20x__1_1,0.5039,0.5039,0.0045
+IP2,deae,DEAE_PG - % elimination prot. [%],-0.5022,0.5022,0.0047
+IP2,deae,DEAE_PG - Purification factor,-0.484,0.484,0.0067
+IP2,deae,DEAE_DEAE - equilibration pH IN,0.481,0.481,0.0071
+IP2,deae,deae_child2_xto_common_20x__6_1,0.4807,0.4807,0.0072
+IP2,deae,DEAE_DEAE - pH pool DEAE,0.48,0.48,0.0073
+IP2,deae,deae_child2_xto_prompt__2_1,-0.4758,0.4758,0.0079
+IP2,deae,DEAE_PG - Ratio prot/Ag,-0.4181,0.4181,0.0215
+IP2,deae,deae_sensor_AI_A1_min,-0.4099,0.4099,0.0245
+IP2,deae,DEAE_DEAE - Volume harvested ml [ml],-0.408,0.408,0.0252
+IP2,deae,deae_child2_xto_outlet_20x__26_1,-0.3911,0.3911,0.0326
+IP2,deae,deae_child2_xto_control_20x__10_1,-0.3875,0.3875,0.0344
+IP2,deae,deae_child2_xto_common_20x__2_1,-0.386,0.386,0.0352
+IP2,deae,deae_child2_xto_inline_201__12_1,-0.3839,0.3839,0.0362
+IP2,deae,deae_child2_xto_cip_201__7_1,-0.3828,0.3828,0.0368
+IP2,deae,deae_child2_xto_common_20x__14_1,-0.3764,0.3764,0.0404
+IP2,deae,deae_child2_xto_control_20x__3_1,-0.3764,0.3764,0.0404
+IP2,deae,deae_child2_xto_inline_201__15_1,-0.3669,0.3669,0.0461
+IP2,deae,deae_child2_xto_outlet_20x__14_1,-0.3669,0.3669,0.0461
+IP2,deae,deae_sensor_AI_A3_mean,0.3651,0.3651,0.0473
+IP2,deae,deae_sensor_PIC_A1_max,0.3534,0.3534,0.0554
+IP2,deae,deae_child2_xto_common_20x__50_1,-0.3477,0.3477,0.0598
+IP2,deae,deae_child2_xto_common_20x__3_1,0.3458,0.3458,0.0612
+IP2,deae,deae_child2_xto_control_20x__17_1,0.3458,0.3458,0.0612
+IP2,deae,deae_child2_xto_inline_201__9_1,0.3458,0.3458,0.0612
+IP2,deae,deae_child2_xto_cip_201__10_1,-0.3451,0.3451,0.0618
+IP2,deae,deae_child2_xto_common_20x__41_1,-0.3451,0.3451,0.0618
+IP2,deae,deae_child2_xto_control_20x__28_1,-0.3451,0.3451,0.0618
+IP2,deae,deae_child2_xto_inlet_20x__7_1,-0.3451,0.3451,0.0618
+IP2,deae,deae_sensor_PIC_A1_min,0.3412,0.3412,0.065
+IP2,deae,deae_sensor_PI_A2_min,0.326,0.326,0.0788
+IP2,deae,deae_child2_xto_common_20x__43_1,-0.325,0.325,0.0797
+IP2,deae,DEAE_DEAE - equilibration pH OUT,0.322,0.322,0.0827
+IP2,deae,deae_child2_xto_outlet_20x__12_1,-0.3201,0.3201,0.0846
+IP2,deae,deae_child2_xto_control_20x__30_1,-0.3143,0.3143,0.0908
+IP2,deae,deae_child2_xto_inline_201__1_1,-0.3121,0.3121,0.0931
+IP2,deae,deae_child2_xto_common_20x__1_1,-0.3085,0.3085,0.0972
+IP2,deae,deae_sensor_AI_A2_mean,0.3042,0.3042,0.1021
+IP2,deae,ev_pg_deae_up5_max_duration_h,-0.3038,0.3038,0.1026
+IP2,deae,ev_pg_deae_up5_mean_duration_h,-0.3034,0.3034,0.1031
+IP2,deae,deae_sensor_PIC_A1_std,0.3023,0.3023,0.1044
+IP2,deae,deae_child2_xto_common_20x__27_1,-0.3014,0.3014,0.1055
+IP2,deae,deae_child2_xto_prompt__17_1,-0.299,0.299,0.1084
+IP2,deae,deae_child2_xto_control_20x__13_1,-0.2969,0.2969,0.1112
+IP2,deae,deae_child2_xto_outlet_20x__5_1,-0.2969,0.2969,0.1112
+IP2,deae,deae_child2_xto_outlet_20x__21_1,0.2967,0.2967,0.1114
+IP2,deae,deae_child2_xto_control_20x__25_1,-0.2945,0.2945,0.1142
+IP2,deae,deae_child2_xto_inline_201__22_1,-0.2945,0.2945,0.1142
+IP2,deae,deae_child2_xto_common_20x__49_1,-0.2941,0.2941,0.1147
+IP2,deae,deae_child2_xto_outlet_20x__19_1,-0.294,0.294,0.1147
+IP2,deae,deae_child2_xto_common_20x__4_1,-0.2939,0.2939,0.1149
+IP2,deae,deae_sensor_AI_A3_std,0.2887,0.2887,0.1217
+IP2,deae,deae_child2_xto_common_20x__22_1,-0.2881,0.2881,0.1227
+IP2,deae,deae_child2_xto_prompt__8_1,-0.2874,0.2874,0.1235
+IP2,deae,deae_child2_xto_cip_201__6_1,-0.2863,0.2863,0.1251
+IP2,deae,deae_child2_xto_common_20x__32_1,-0.2863,0.2863,0.1251
+IP2,deae,deae_child2_xto_inlet_20x__15_1,-0.2835,0.2835,0.1289
+IP2,deae,deae_child2_xto_outlet_20x__9_1,-0.2829,0.2829,0.1299
+IP2,deae,deae_child2_xto_prompt__15_1,-0.2807,0.2807,0.133
+IP2,deae,deae_child2_xto_inline_201__14_1,-0.2793,0.2793,0.135
+IP2,deae,deae_child2_xto_init_20x__1_1,-0.2754,0.2754,0.1407
+IP2,deae,deae_child2_xto_inlet_20x__8_1,0.2754,0.2754,0.1407
+IP2,deae,deae_child2_xto_inline_201__18_1,0.2754,0.2754,0.1407
+IP2,deae,deae_child2_xto_control_20x__21_1,-0.2745,0.2745,0.1421
+IP2,deae,deae_child2_xto_inlet_20x__19_1,-0.2745,0.2745,0.1421
+IP2,deae,deae_child2_xto_inline_201__19_1,-0.2745,0.2745,0.1421
+IP2,deae,deae_child2_xto_control_20x__2_1,0.2742,0.2742,0.1425
+IP2,deae,deae_child2_xto_common_20x__13_1,0.2724,0.2724,0.1453
+IP2,deae,DEAE_DEAE - pH after adding,0.2633,0.2633,0.1598
+IP2,deae,deae_child2_xto_alarm_201__2_1,-0.2614,0.2614,0.163
+IP2,deae,deae_child2_xto_control_20x__4_1,-0.2614,0.2614,0.163
+IP2,deae,deae_child2_xto_inlet_20x__5_1,-0.2614,0.2614,0.163
+IP2,deae,deae_child2_xto_inline_201__7_1,-0.2614,0.2614,0.163
+IP2,deae,deae_child2_xto_outlet_20x__8_1,-0.2614,0.2614,0.163
+IP2,deae,deae_child2_xto_common_20x__56_1,-0.259,0.259,0.167
+IP2,deae,deae_child2_xto_outlet_20x__7_1,0.2576,0.2576,0.1693
+IP2,deae,deae_sub_pc1,0.2569,0.2569,0.1705
+IP2,deae,deae_sensor_Accumulated Volume_min,0.2562,0.2562,0.1717
+IP2,deae,deae_child2_xto_control_20x__32_1,-0.2555,0.2555,0.173
+IP2,deae,ev_pg_deae_up5_std_duration_h,-0.2551,0.2551,0.1737
+IP2,deae,deae_child2_xto_common_20x__30_1,-0.2535,0.2535,0.1764
+IP2,deae,deae_child2_xto_inlet_20x__10_1,0.2489,0.2489,0.1848
+IP2,deae,deae_child2_xto_common_20x__23_1,0.2486,0.2486,0.1853
+IP2,deae,deae_child2_xto_control_20x__8_1,0.2486,0.2486,0.1853
+IP2,deae,deae_sub_pc4,0.2462,0.2462,0.1897
+IP2,deae,deae_child2_xto_inlet_20x__4_1,-0.2425,0.2425,0.1966
+IP2,deae,deae_child2_xto_control_20x__33_1,-0.2384,0.2384,0.2046
+IP2,deae,deae_child2_xto_inline_201__10_1,0.2384,0.2384,0.2046
+IP2,deae,deae_child2_xto_init_20x__3_1,-0.2327,0.2327,0.2158
+IP2,deae,deae_sensor_PIC_I1_max,0.231,0.231,0.2194
+IP2,deae,deae_child2_xto_prompt__14_1,0.222,0.222,0.2383
+IP2,deae,deae_sensor_MT_I2_OUT_min,-0.2207,0.2207,0.2412
+IP2,deae,deae_child2_xto_alarm_201__6_1,-0.2204,0.2204,0.2419
+IP2,deae,deae_child2_xto_prompt__12_1,0.2196,0.2196,0.2435
+IP2,deae,deae_child2_xto_control_20x__23_1,-0.2171,0.2171,0.2493
+IP2,deae,deae_child2_xto_common_20x__37_1,-0.2168,0.2168,0.2497
+IP2,deae,deae_child2_xto_outlet_20x__15_1,-0.2166,0.2166,0.2503
+IP2,deae,deae_child2_xto_inline_201__27_1,-0.2165,0.2165,0.2505
+IP2,deae,deae_child2_xto_inlet_20x__16_1,-0.2163,0.2163,0.251
+IP2,deae,deae_child2_xto_cip_201__5_1,-0.2154,0.2154,0.253
+IP2,deae,deae_sensor_PIC_A1_mean,0.2131,0.2131,0.2581
+IP2,deae,ev_pg_deae_up1_total_duration_h,0.2095,0.2095,0.2665
+IP2,deae,ev_deae_up12_total_duration_h,0.2094,0.2094,0.2668
+IP2,deae,deae_child2_xto_control_20x__24_1,-0.2093,0.2093,0.267
+IP2,deae,deae_child2_xto_prompt__7_1,-0.2087,0.2087,0.2683
+IP2,deae,deae_child2_xto_outlet_20x__4_1,0.2086,0.2086,0.2686
+IP2,deae,deae_child2_xto_prompt__10_1,-0.2047,0.2047,0.2778
+IP2,deae,deae_sensor_AI_A2_std,0.2013,0.2013,0.2861
+IP2,deae,ev_pg_up4_mean_duration_h,-0.2008,0.2008,0.2873
+IP2,deae,ev_pg_deae_up1_n_events,0.1987,0.1987,0.2924
+IP2,deae,deae_child1_op12_batch_process_deae_1_1,-0.1974,0.1974,0.2958
+IP2,deae,deae_child2_xto_cip_201__9_1,0.1952,0.1952,0.3012
+IP2,deae,deae_child2_xto_common_20x__40_1,0.1952,0.1952,0.3012
+IP2,deae,ev_deae_up12_n_events,0.1948,0.1948,0.3022
+IP2,deae,deae_child2_xto_outlet_20x__13_1,-0.1933,0.1933,0.306
+IP2,deae,deae_child2_xto_common_20x__35_1,-0.1914,0.1914,0.311
+IP2,deae,deae_child2_xto_control_20x__20_1,-0.1907,0.1907,0.3128
+IP2,deae,deae_child2_xto_inlet_20x__14_1,-0.1907,0.1907,0.3128
+IP2,deae,deae_child2_xto_prompt__22_1,-0.1904,0.1904,0.3136
+IP2,deae,DEAE_DEAE - equilibration conducti [mS/cm],0.1894,0.1894,0.3162
+IP2,deae,deae_child2_xto_common_20x__5_1,0.1867,0.1867,0.3233
+IP2,deae,deae_child2_xto_common_20x__36_1,-0.1852,0.1852,0.3272
+IP2,deae,deae_child2_xto_control_20x__22_1,-0.1852,0.1852,0.3272
+IP2,deae,deae_child2_xto_common_20x__34_1,0.1849,0.1849,0.328
+IP2,deae,deae_child2_xto_control_20x__19_1,0.1849,0.1849,0.328
+IP2,deae,deae_child2_xto_outlet_20x__24_1,0.1849,0.1849,0.328
+IP2,deae,deae_child1_op13_user_request_2_1,-0.1828,0.1828,0.3337
+IP2,deae,deae_child2_xto_inlet_20x__6_1,0.1816,0.1816,0.3368
+IP2,deae,deae_child2_xto_inlet_20x__9_1,-0.1801,0.1801,0.341
+IP2,deae,deae_child2_xto_control_20x__35_1,-0.1787,0.1787,0.3448
+IP2,deae,DEAE_DEAE - Height of gel [Centimeter],0.1759,0.1759,0.3525
+IP2,deae,DEAE_DEAE - Volume of gel [Liter],0.1759,0.1759,0.3525
+IP2,deae,deae_sensor_UV Light_min,-0.1745,0.1745,0.3564
+IP2,deae,deae_sensor_MT_I1_OUT_min,0.1741,0.1741,0.3575
+IP2,deae,deae_sensor_MT_I2_OUT_std,-0.1733,0.1733,0.3599
+IP2,deae,deae_sensor_RunCalc_UV_DuringHarvest_min,-0.1727,0.1727,0.3615
+IP2,deae,deae_sensor_TI_A1_max,-0.1701,0.1701,0.3688
+IP2,deae,deae_sub_pc2,-0.1664,0.1664,0.3795
+IP2,deae,deae_sensor_TI_A1_std,-0.1656,0.1656,0.3818
+IP2,deae,deae_sensor_TI_A1_mean,-0.1652,0.1652,0.3831
+IP2,deae,deae_sensor_MT_I2_OUT_mean,-0.1633,0.1633,0.3887
+IP2,deae,deae_child2_xto_control_20x__34_1,-0.16,0.16,0.3983
+IP2,deae,ev_pg_up4_total_duration_h,-0.1584,0.1584,0.4031
+IP2,deae,deae_child2_xto_outlet_20x__3_1,0.1578,0.1578,0.405
+IP2,deae,deae_child2_xto_common_20x__16_1,-0.1567,0.1567,0.4082
+IP2,deae,deae_sub_pc3,-0.1562,0.1562,0.4099
+IP2,deae,deae_child2_xto_alarm_201__3_1,-0.156,0.156,0.4105
+IP2,deae,DEAE_DEAE - Stock duration pool PG,-0.1555,0.1555,0.412
+IP2,deae,deae_child2_xto_common_20x__26_1,-0.1552,0.1552,0.413
+IP2,deae,deae_child2_xto_inlet_20x__3_1,-0.1548,0.1548,0.4142
+IP2,deae,deae_child2_xto_inline_201__6_1,-0.1548,0.1548,0.4142
+IP2,deae,deae_child2_xto_control_20x__29_1,-0.1543,0.1543,0.4156
+IP2,deae,deae_child2_xto_control_20x__12_1,-0.1527,0.1527,0.4206
+IP2,deae,ev_pg_up4_std_duration_h,-0.148,0.148,0.4351
+IP2,deae,deae_child2_xto_outlet_20x__20_1,-0.1475,0.1475,0.4367
+IP2,deae,deae_sensor_RunCalc_UV_ForIntegral_v2_mean,-0.1467,0.1467,0.4392
+IP2,deae,DEAE_DEAE - Hydratation duration [Minute],0.1461,0.1461,0.4411
+IP2,deae,deae_child2_xto_common_20x__24_1,0.1461,0.1461,0.441
+IP2,deae,deae_sensor_Accumulated Volume_std,0.1449,0.1449,0.4449
+IP2,deae,deae_child2_xto_inlet_20x__11_1,0.1446,0.1446,0.4457
+IP2,deae,deae_child2_xto_prompt__11_1,0.1444,0.1444,0.4465
+IP2,deae,deae_child2_xto_control_20x__9_1,0.1443,0.1443,0.4468
+IP2,deae,deae_sensor_TI_A1_min,0.1371,0.1371,0.4701
+IP2,deae,deae_child2_xto_alarm_201__5_1,-0.1305,0.1305,0.492
+IP2,deae,deae_sensor_UV Light_max,0.1292,0.1292,0.4961
+IP2,deae,deae_sensor_RunCalc_UV_DuringHarvest_max,0.1291,0.1291,0.4965
+IP2,deae,deae_sensor_PIC_I1_std,0.1273,0.1273,0.5026
+IP2,deae,deae_child2_xto_common_20x__39_1,-0.1271,0.1271,0.5033
+IP2,deae,deae_child2_xto_outlet_20x__18_1,-0.1271,0.1271,0.5035
+IP2,deae,deae_child2_xto_control_20x__26_1,-0.1268,0.1268,0.5044
+IP2,deae,deae_child2_xto_common_20x__28_1,-0.1256,0.1256,0.5086
+IP2,deae,deae_sensor_PIC_I1_min,-0.1242,0.1242,0.5132
+IP2,deae,deae_sensor_PIC_I1_OUT_min,0.1238,0.1238,0.5145
+IP2,deae,deae_child2_xto_prompt__13_1,-0.1195,0.1195,0.5295
+IP2,deae,deae_sensor_AI_A1_mean,0.1186,0.1186,0.5324
+IP2,deae,deae_child2_xto_prompt__20_1,-0.1148,0.1148,0.5457
+IP2,deae,deae_child2_xto_prompt__4_1,-0.1112,0.1112,0.5586
+IP2,deae,deae_sensor_FIC_C11_min,-0.111,0.111,0.5593
+IP2,deae,deae_child2_xto_inlet_20x__20_1,-0.1096,0.1096,0.5643
+IP2,deae,ev_pg_deae_up1_max_duration_h,0.1085,0.1085,0.5681
+IP2,deae,ev_deae_up12_max_duration_h,0.1085,0.1085,0.5681
+IP2,deae,deae_sensor_TA_A2_HETP_mean,-0.1035,0.1035,0.5863
+IP2,deae,deae_sensor_TA_A2_HETP_min,-0.1035,0.1035,0.5863
+IP2,deae,deae_sensor_TA_A2_HETP_max,-0.1035,0.1035,0.5863
+IP2,deae,deae_child2_xto_prompt__5_1,0.101,0.101,0.5953
+IP2,deae,deae_sensor_AI_A1_std,0.0984,0.0984,0.6048
+IP2,deae,deae_sub_pc5,0.0956,0.0956,0.6154
+IP2,deae,deae_child2_xto_prompt__6_1,0.0927,0.0927,0.6262
+IP2,deae,deae_sensor_PI_A2_max,0.0922,0.0922,0.628
+IP2,deae,deae_child2_xto_cip_201__11_1,0.092,0.092,0.6289
+IP2,deae,deae_child2_xto_common_20x__46_1,0.092,0.092,0.6288
+IP2,deae,deae_child2_xto_control_20x__16_1,0.092,0.092,0.6287
+IP2,deae,deae_child2_xto_inlet_20x__12_1,0.092,0.092,0.6289
+IP2,deae,deae_child2_xto_outlet_20x__10_1,0.0919,0.0919,0.6289
+IP2,deae,deae_sensor_TI_A2_std,-0.0912,0.0912,0.6318
+IP2,deae,ev_pg_up4_max_duration_h,-0.0906,0.0906,0.6339
+IP2,deae,deae_sensor_Accumulated Volume_max,0.0902,0.0902,0.6355
+IP2,deae,deae_child2_xto_cip_201__4_1,0.0901,0.0901,0.636
+IP2,deae,deae_sensor_RunCalc_UV_ForIntegral_v2_std,-0.0897,0.0897,0.6372
+IP2,deae,DEAE_DEAE - equilibration pH delta,0.0888,0.0888,0.6407
+IP2,deae,deae_sensor_PI_A2_std,0.0877,0.0877,0.6451
+IP2,deae,deae_child2_xto_init_20x__2_1,0.0844,0.0844,0.6575
+IP2,deae,deae_child2_xto_inline_201__23_1,0.0813,0.0813,0.6693
+IP2,deae,deae_sensor_TA_A2_ASYM_mean,0.0807,0.0807,0.6716
+IP2,deae,deae_sensor_TA_A2_ASYM_min,0.0807,0.0807,0.6716
+IP2,deae,deae_sensor_TA_A2_ASYM_max,0.0807,0.0807,0.6716
+IP2,deae,deae_child2_xto_outlet_20x__6_1,-0.0807,0.0807,0.6714
+IP2,deae,deae_child2_xto_common_20x__15_1,-0.0776,0.0776,0.6838
+IP2,deae,deae_sensor_TI_A2_max,-0.0773,0.0773,0.6848
+IP2,deae,deae_child2_xto_common_20x__57_1,0.0766,0.0766,0.6875
+IP2,deae,deae_child2_xto_prompt__16_1,0.0766,0.0766,0.6874
+IP2,deae,deae_child2_xto_inlet_20x__17_1,0.0762,0.0762,0.6889
+IP2,deae,deae_child2_xto_control_20x__31_1,0.075,0.075,0.6938
+IP2,deae,deae_child2_xto_inline_201__16_1,0.075,0.075,0.6938
+IP2,deae,deae_child2_xto_outlet_20x__16_1,0.075,0.075,0.6938
+IP2,deae,deae_child2_xto_prompt__9_1,0.0736,0.0736,0.6991
+IP2,deae,deae_sensor_AI_A3_min,0.0725,0.0725,0.7035
+IP2,deae,deae_sensor_RunCalc_UV_ForIntegral_v2_max,-0.0707,0.0707,0.7104
+IP2,deae,deae_child2_xto_control_20x__27_1,0.0695,0.0695,0.7151
+IP2,deae,deae_sensor_AI_A3_max,0.0679,0.0679,0.7216
+IP2,deae,deae_child2_xto_alarm_201__8_1,0.0664,0.0664,0.7274
+IP2,deae,deae_sensor_AI_A2_max,0.0654,0.0654,0.7315
+IP2,deae,DEAE_DEAE - volume HCl [ml],-0.0645,0.0645,0.7348
+IP2,deae,deae_sensor_PI_A2_mean,0.0568,0.0568,0.7655
+IP2,deae,deae_child2_xto_prompt__21_1,0.0567,0.0567,0.7661
+IP2,deae,deae_child2_xto_inline_201__8_1,-0.0556,0.0556,0.7704
+IP2,deae,deae_sensor_MT_I1_OUT_max,0.0513,0.0513,0.7877
+IP2,deae,deae_child2_xto_alarm_201__4_1,-0.0509,0.0509,0.7892
+IP2,deae,ev_pg_up4_n_events,0.0499,0.0499,0.7934
+IP2,deae,deae_sensor_PIC_I1_mean,0.0495,0.0495,0.795
+IP2,deae,ev_pg_deae_up5_n_events,-0.0486,0.0486,0.7985
+IP2,deae,deae_sensor_TI_A2_mean,-0.0477,0.0477,0.8024
+IP2,deae,deae_child2_xto_common_20x__29_1,-0.0452,0.0452,0.8124
+IP2,deae,deae_sensor_RunCalc_UV_DuringHarvest_mean,0.0451,0.0451,0.8131
+IP2,deae,deae_sensor_AI_A2_min,0.0439,0.0439,0.8177
+IP2,deae,deae_sensor_FIC_C11_max,-0.0439,0.0439,0.8177
+IP2,deae,deae_sensor_AI_A1_max,0.0431,0.0431,0.8211
+IP2,deae,ev_deae_up12_mean_duration_h,0.0431,0.0431,0.821
+IP2,deae,ev_pg_deae_up1_mean_duration_h,0.0396,0.0396,0.8355
+IP2,deae,deae_sensor_XV-O1_ZSO_mean,-0.0361,0.0361,0.8496
+IP2,deae,deae_sensor_PIC_I1_OUT_mean,0.0359,0.0359,0.8506
+IP2,deae,deae_child2_xto_common_20x__42_1,0.0278,0.0278,0.8843
+IP2,deae,deae_sensor_TI_A2_min,-0.0272,0.0272,0.8866
+IP2,deae,deae_sensor_MT_I1_OUT_std,-0.0268,0.0268,0.8881
+IP2,deae,deae_child2_xto_control_20x__7_1,-0.0254,0.0254,0.8938
+IP2,deae,deae_sensor_XV-O1_ZSO_std,0.0243,0.0243,0.8987
+IP2,deae,ev_pg_deae_up5_total_duration_h,0.02,0.02,0.9165
+IP2,deae,deae_sensor_UV Light_mean,0.0195,0.0195,0.9187
+IP2,deae,ev_deae_up12_std_duration_h,0.0175,0.0175,0.9268
+IP2,deae,deae_child2_xto_alarm_201__7_1,0.0173,0.0173,0.9278
+IP2,deae,deae_child2_xto_control_20x__15_1,0.0173,0.0173,0.9279
+IP2,deae,deae_child2_xto_inlet_20x__18_1,0.0173,0.0173,0.9279
+IP2,deae,deae_child2_xto_inline_201__28_1,0.0173,0.0173,0.9279
+IP2,deae,deae_sensor_Accumulated Volume_mean,-0.0172,0.0172,0.9282
+IP2,deae,deae_child2_xto_outlet_20x__17_1,0.0172,0.0172,0.9279
+IP2,deae,deae_child2_xto_control_20x__36_1,-0.017,0.017,0.9289
+IP2,deae,deae_sensor_UV Elution_std,-0.0162,0.0162,0.9325
+IP2,deae,ev_pg_deae_up1_std_duration_h,0.0151,0.0151,0.9368
+IP2,deae,deae_child2_xto_prompt__1_1,0.0139,0.0139,0.9417
+IP2,deae,deae_sensor_RunCalc_UV_DuringHarvest_std,0.0133,0.0133,0.9443
+IP2,deae,DEAE_DPV - pH M199,-0.0132,0.0132,0.945
+IP2,deae,deae_sensor_PIC_I1_OUT_std,0.0108,0.0108,0.9548
+IP2,deae,deae_sensor_FIC_C11_mean,-0.0106,0.0106,0.9557
+IP2,deae,deae_sensor_FIC_C11_std,0.0076,0.0076,0.9681
+IP2,deae,deae_sensor_UV Elution_mean,0.0073,0.0073,0.9694
+IP2,deae,deae_sensor_MT_I1_OUT_mean,-0.0059,0.0059,0.9752
+IP2,deae,deae_child2_xto_prompt__3_1,0.0048,0.0048,0.98
+IP2,deae,deae_sensor_UV Light_std,0.004,0.004,0.9834
+IP2,deae,deae_child2_xto_inline_201__13_1,0.0034,0.0034,0.9858
+IP2,deae,deae_child2_xto_common_20x__25_1,-0.0007,0.0007,0.9971
+IP2,deae,deae_child2_xto_control_20x__11_1,-0.0007,0.0007,0.9971
+IP2,pg,pg_sensor_PI_A2_mean,0.4567,0.4567,0.0112
+IP2,pg,pg_sensor_PIC_I1_std,0.4559,0.4559,0.0114
+IP2,pg,pg_child2_xto_outlet_20x__15_1,0.455,0.455,0.0115
+IP2,pg,PG_PG - Ag total,0.4499,0.4499,0.0126
+IP2,pg,PG_004 PG - Ag content Elisa [DU/ml],0.4463,0.4463,0.0134
+IP2,pg,pg_child2_xto_cip_201__9_1,0.4267,0.4267,0.0187
+IP2,pg,pg_child2_xto_common_20x__35_1,0.4181,0.4181,0.0215
+IP2,pg,pg_child2_xto_control_20x__20_1,0.4181,0.4181,0.0215
+IP2,pg,pg_child2_xto_common_20x__29_1,0.4101,0.4101,0.0244
+IP2,pg,pg_sensor_TI_A1_mean,-0.4079,0.4079,0.0252
+IP2,pg,pg_child2_xto_inline_201__13_1,0.3992,0.3992,0.0289
+IP2,pg,pg_child2_xto_control_20x__11_1,0.3986,0.3986,0.0291
+IP2,pg,pg_sensor_PIC_A1_mean,0.3982,0.3982,0.0293
+IP2,pg,pg_child2_xto_common_20x__25_1,0.3977,0.3977,0.0295
+IP2,pg,pg_sensor_TI_A2_mean,-0.3932,0.3932,0.0316
+IP2,pg,pg_child2_xto_outlet_20x__14_1,0.3891,0.3891,0.0336
+IP2,pg,pg_sensor_PIC_I1_mean,0.3806,0.3806,0.038
+IP2,pg,pg_child2_xto_control_20x__8_1,0.3699,0.3699,0.0442
+IP2,pg,pg_child2_xto_common_20x__23_1,0.3696,0.3696,0.0444
+IP2,pg,pg_child2_xto_common_20x__32_1,0.3694,0.3694,0.0445
+IP2,pg,pg_child2_xto_inlet_20x__10_1,0.3692,0.3692,0.0447
+IP2,pg,pg_child2_xto_control_20x__7_1,0.3689,0.3689,0.0449
+IP2,pg,pg_child2_xto_inlet_20x__6_1,0.3689,0.3689,0.0449
+IP2,pg,pg_child2_xto_inlet_20x__19_1,0.3688,0.3688,0.0449
+IP2,pg,pg_child2_xto_prompt__14_1,0.3687,0.3687,0.045
+IP2,pg,pg_child2_xto_alarm_201__3_1,0.3668,0.3668,0.0462
+IP2,pg,pg_child2_xto_common_20x__27_1,0.3661,0.3661,0.0466
+IP2,pg,pg_child2_xto_control_20x__13_1,0.3661,0.3661,0.0466
+IP2,pg,pg_sensor_TI_A1_std,-0.3607,0.3607,0.0502
+IP2,pg,pg_child2_xto_common_20x__36_1,0.3593,0.3593,0.0512
+IP2,pg,pg_child2_xto_cip_201__6_1,0.3592,0.3592,0.0513
+IP2,pg,pg_child2_xto_common_20x__38_1,0.3592,0.3592,0.0513
+IP2,pg,pg_child2_xto_control_20x__23_1,0.3592,0.3592,0.0512
+IP2,pg,pg_child2_xto_control_20x__25_1,0.3592,0.3592,0.0512
+IP2,pg,pg_child2_xto_outlet_20x__16_1,0.3592,0.3592,0.0512
+IP2,pg,pg_child2_xto_outlet_20x__17_1,0.3592,0.3592,0.0512
+IP2,pg,pg_child2_xto_cip_201__7_1,0.3591,0.3591,0.0513
+IP2,pg,pg_child2_xto_common_20x__39_1,0.3591,0.3591,0.0513
+IP2,pg,pg_child2_xto_control_20x__26_1,0.3591,0.3591,0.0513
+IP2,pg,pg_child2_xto_inlet_20x__12_1,0.3591,0.3591,0.0513
+IP2,pg,pg_sensor_PI_A2_std,0.359,0.359,0.0514
+IP2,pg,pg_child2_xto_control_20x__21_1,0.359,0.359,0.0514
+IP2,pg,pg_child2_xto_common_20x__40_1,0.3585,0.3585,0.0517
+IP2,pg,pg_child2_xto_control_20x__27_1,0.3585,0.3585,0.0517
+IP2,pg,pg_child2_xto_inline_201__10_1,0.3573,0.3573,0.0526
+IP2,pg,pg_child2_xto_common_20x__21_1,0.357,0.357,0.0528
+IP2,pg,pg_child2_xto_control_20x__6_1,0.357,0.357,0.0528
+IP2,pg,pg_child2_xto_inline_201__5_1,0.357,0.357,0.0528
+IP2,pg,pg_child2_xto_outlet_20x__4_1,0.3555,0.3555,0.0538
+IP2,pg,pg_sensor_AI_A2_mean,-0.3521,0.3521,0.0563
+IP2,pg,pg_child2_xto_common_20x__28_1,0.3507,0.3507,0.0575
+IP2,pg,pg_child2_xto_control_20x__14_1,0.3507,0.3507,0.0574
+IP2,pg,pg_child2_xto_outlet_20x__2_1,0.3486,0.3486,0.059
+IP2,pg,pg_child2_xto_inline_201__9_1,0.347,0.347,0.0603
+IP2,pg,pg_child2_xto_cip_201__2_1,0.3463,0.3463,0.0608
+IP2,pg,pg_child2_xto_common_20x__11_1,0.3457,0.3457,0.0613
+IP2,pg,pg_child2_xto_common_20x__34_1,0.3453,0.3453,0.0616
+IP2,pg,pg_child2_xto_control_20x__19_1,0.3453,0.3453,0.0616
+IP2,pg,pg_child2_xto_inlet_20x__7_1,0.3445,0.3445,0.0623
+IP2,pg,pg_child2_xto_outlet_20x__5_1,0.3439,0.3439,0.0628
+IP2,pg,pg_child2_xto_alarm_201__7_1,0.3436,0.3436,0.063
+IP2,pg,pg_child2_xto_inline_201__16_1,0.3436,0.3436,0.063
+IP2,pg,pg_sensor_AI_A2_std,-0.3413,0.3413,0.0649
+IP2,pg,pg_child2_xto_common_20x__12_1,0.3368,0.3368,0.0688
+IP2,pg,pg_child2_xto_outlet_20x__12_1,0.3353,0.3353,0.0701
+IP2,pg,pg_child2_xto_control_20x__29_1,0.3344,0.3344,0.0708
+IP2,pg,pg_child2_xto_inlet_20x__16_1,0.3341,0.3341,0.0711
+IP2,pg,pg_child2_xto_inline_201__6_1,0.3341,0.3341,0.0711
+IP2,pg,pg_child2_xto_common_20x__2_1,0.3314,0.3314,0.0736
+IP2,pg,pg_child2_xto_inline_201__12_1,0.3314,0.3314,0.0736
+IP2,pg,pg_child2_xto_control_20x__10_1,0.3307,0.3307,0.0743
+IP2,pg,pg_sensor_AI_A3_min,0.3228,0.3228,0.0819
+IP2,pg,pg_child2_xto_cip_201__5_1,0.3213,0.3213,0.0834
+IP2,pg,pg_child2_xto_common_20x__24_1,0.3202,0.3202,0.0845
+IP2,pg,pg_child1_op13_user_request_2_1,0.3198,0.3198,0.0849
+IP2,pg,pg_child2_xto_control_20x__9_1,0.3188,0.3188,0.0859
+IP2,pg,pg_child2_xto_inlet_20x__11_1,0.3188,0.3188,0.0859
+IP2,pg,pg_sensor_PIC_I1_OUT_mean,0.3141,0.3141,0.0909
+IP2,pg,pg_sensor_AI_A1_min,-0.3119,0.3119,0.0933
+IP2,pg,pg_child2_xto_common_20x__16_1,0.3097,0.3097,0.0959
+IP2,pg,pg_child2_xto_inline_201__8_1,0.2991,0.2991,0.1083
+IP2,pg,pg_child2_xto_common_20x__42_1,0.2937,0.2937,0.1152
+IP2,pg,pg_child2_xto_inlet_20x__17_1,0.2937,0.2937,0.1152
+IP2,pg,pg_child2_xto_outlet_20x__9_1,0.2895,0.2895,0.1208
+IP2,pg,pg_sensor_PI_A2_max,0.2879,0.2879,0.1228
+IP2,pg,pg_child2_xto_inline_201__11_1,0.2841,0.2841,0.1281
+IP2,pg,pg_child2_xto_alarm_201__8_1,0.2815,0.2815,0.1319
+IP2,pg,pg_sensor_PIC_I1_OUT_min,0.2812,0.2812,0.1322
+IP2,pg,pg_child2_xto_control_20x__15_1,0.2805,0.2805,0.1333
+IP2,pg,pg_sensor_MT_I2_OUT_std,-0.2796,0.2796,0.1345
+IP2,pg,pg_sensor_AI_A3_std,-0.2759,0.2759,0.14
+IP2,pg,pg_child2_xto_inlet_20x__4_1,0.2754,0.2754,0.1407
+IP2,pg,pg_child2_xto_prompt__2_1,0.2727,0.2727,0.1449
+IP2,pg,pg_sensor_PI_A2_min,0.2713,0.2713,0.147
+IP2,pg,pg_sensor_AI_A2_min,-0.2614,0.2614,0.1629
+IP2,pg,pg_child2_xto_cip_201__4_1,0.2589,0.2589,0.1671
+IP2,pg,pg_sensor_MT_I1_OUT_max,-0.2588,0.2588,0.1673
+IP2,pg,pg_child2__gen_get_val_15__1_1,0.2531,0.2531,0.1772
+IP2,pg,pg_sub_pc4,0.2516,0.2516,0.1799
+IP2,pg,pg_sub_pc1,0.2501,0.2501,0.1826
+IP2,pg,pg_sub_pc2,0.2499,0.2499,0.183
+IP2,pg,pg_sensor_TA_A2_HETP_mean,0.2491,0.2491,0.1843
+IP2,pg,pg_sensor_TA_A2_HETP_min,0.2491,0.2491,0.1843
+IP2,pg,pg_sensor_TA_A2_HETP_max,0.2491,0.2491,0.1843
+IP2,pg,pg_sub_pc3,0.2475,0.2475,0.1873
+IP2,pg,pg_sub_pc5,-0.246,0.246,0.19
+IP2,pg,pg_sensor_MT_I2_OUT_mean,0.2396,0.2396,0.2022
+IP2,pg,pg_sensor_FIC_C11_max,-0.2391,0.2391,0.2032
+IP2,pg,pg_child2_xto_common_20x__26_1,-0.2307,0.2307,0.22
+IP2,pg,pg_child2_xto_control_20x__12_1,-0.2307,0.2307,0.22
+IP2,pg,pg_child2_xto_outlet_20x__6_1,-0.2295,0.2295,0.2225
+IP2,pg,pg_sensor_TA_A2_ASYM_mean,-0.2277,0.2277,0.2261
+IP2,pg,pg_sensor_TA_A2_ASYM_min,-0.2277,0.2277,0.2261
+IP2,pg,pg_sensor_TA_A2_ASYM_max,-0.2277,0.2277,0.2261
+IP2,pg,pg_sensor_TI_A2_min,-0.2241,0.2241,0.2339
+IP2,pg,pg_sensor_PIC_I1_min,0.2206,0.2206,0.2415
+IP2,pg,PG_UF - % elimination prot. [%],0.2193,0.2193,0.2444
+IP2,pg,pg_child2_xto_alarm_201__5_1,-0.2186,0.2186,0.2459
+IP2,pg,pg_child2_xto_inline_201__14_1,-0.2186,0.2186,0.2459
+IP2,pg,pg_child2_xto_prompt__15_1,0.2088,0.2088,0.2681
+IP2,pg,pg_sensor_PIC_A1_std,0.2067,0.2067,0.2731
+IP2,pg,pg_child2_xto_common_20x__37_1,0.2061,0.2061,0.2746
+IP2,pg,pg_child2_xto_control_20x__24_1,0.2061,0.2061,0.2746
+IP2,pg,pg_child2_xto_outlet_20x__11_1,0.2061,0.2061,0.2746
+IP2,pg,pg_sensor_TI_A2_std,-0.2031,0.2031,0.2818
+IP2,pg,pg_child2_xto_common_20x__5_1,-0.2026,0.2026,0.2828
+IP2,pg,pg_child2_xto_common_20x__41_1,0.2012,0.2012,0.2864
+IP2,pg,pg_child2_xto_control_20x__28_1,0.2012,0.2012,0.2864
+IP2,pg,pg_sensor_Accumulated Volume_std,-0.1969,0.1969,0.297
+IP2,pg,pg_child2_xto_common_20x__14_1,-0.1933,0.1933,0.306
+IP2,pg,pg_child2_xto_control_20x__3_1,-0.1933,0.1933,0.3061
+IP2,pg,pg_child2_xto_inlet_20x__9_1,-0.1933,0.1933,0.306
+IP2,pg,pg_child2_xto_inline_201__17_1,-0.1933,0.1933,0.306
+IP2,pg,pg_child2_xto_outlet_20x__20_1,-0.1933,0.1933,0.306
+IP2,pg,pg_sensor_TI_A2_max,-0.1926,0.1926,0.308
+IP2,pg,pg_sensor_TI_A1_max,-0.1907,0.1907,0.3128
+IP2,pg,pg_child2_xto_common_20x__45_1,0.1886,0.1886,0.3184
+IP2,pg,pg_sensor_MT_I1_OUT_std,-0.1858,0.1858,0.3256
+IP2,pg,pg_sensor_UV Elution_max,-0.1776,0.1776,0.3479
+IP2,pg,pg_sensor_UV Elution_std,-0.1744,0.1744,0.3567
+IP2,pg,pg_child2_xto_outlet_20x__18_1,0.1735,0.1735,0.3592
+IP2,pg,pg_sensor_UV Elution_mean,-0.173,0.173,0.3606
+IP2,pg,pg_child2_xto_cip_201__8_1,0.172,0.172,0.3635
+IP2,pg,pg_child2_xto_inlet_20x__13_1,0.172,0.172,0.3635
+IP2,pg,pg_child2_xto_prompt__6_1,0.1708,0.1708,0.3669
+IP2,pg,pg_sensor_RunCalc_UV_ForIntegral_v2_max,-0.1704,0.1704,0.3679
+IP2,pg,pg_child2_xto_prompt__8_1,-0.1669,0.1669,0.3781
+IP2,pg,pg_child2_xto_alarm_201__2_1,-0.1609,0.1609,0.3956
+IP2,pg,pg_child2_xto_common_20x__30_1,-0.1609,0.1609,0.3956
+IP2,pg,pg_child2_xto_control_20x__4_1,-0.1609,0.1609,0.3956
+IP2,pg,pg_child2_xto_inlet_20x__5_1,-0.1609,0.1609,0.3956
+IP2,pg,pg_child2_xto_inline_201__7_1,-0.1609,0.1609,0.3956
+IP2,pg,pg_child2_xto_outlet_20x__8_1,-0.1609,0.1609,0.3956
+IP2,pg,pg_child2_xto_prompt__12_1,0.1569,0.1569,0.4077
+IP2,pg,pg_sensor_Accumulated Volume_max,-0.1565,0.1565,0.4088
+IP2,pg,pg_sensor_PIC_A1_max,0.1563,0.1563,0.4094
+IP2,pg,pg_child2_xto_alarm_201__9_1,0.1559,0.1559,0.4106
+IP2,pg,pg_sensor_AI_A1_max,-0.1557,0.1557,0.4114
+IP2,pg,pg_sensor_RunCalc_UV_ForIntegral_v2_std,-0.1534,0.1534,0.4182
+IP2,pg,pg_child2_xto_alarm_201__1_1,-0.1488,0.1488,0.4325
+IP2,pg,pg_sensor_TA_O1_HETP_mean,0.1459,0.1459,0.4418
+IP2,pg,pg_sensor_FIC_C11_mean,0.1435,0.1435,0.4495
+IP2,pg,pg_sensor_PIC_I1_max,0.1413,0.1413,0.4564
+IP2,pg,PG_UF - Ratio prot/Ag,0.1394,0.1394,0.4624
+IP2,pg,pg_sensor_TI_A1_min,0.1391,0.1391,0.4636
+IP2,pg,pg_sensor_AI_A3_mean,0.1388,0.1388,0.4645
+IP2,pg,pg_child2_xto_cip_201__1_1,-0.1359,0.1359,0.4738
+IP2,pg,pg_child2_xto_outlet_20x__1_1,-0.1359,0.1359,0.4738
+IP2,pg,pg_child2_xto_control_20x__1_1,-0.1356,0.1356,0.4751
+IP2,pg,pg_child2_xto_common_20x__3_1,-0.1352,0.1352,0.4764
+IP2,pg,pg_child2_xto_prompt__5_1,-0.1352,0.1352,0.4764
+IP2,pg,pg_child2_xto_inlet_20x__1_1,-0.135,0.135,0.4768
+IP2,pg,pg_child2_xto_inline_201__1_1,-0.135,0.135,0.4768
+IP2,pg,pg_sensor_AI_A2_max,-0.1346,0.1346,0.4783
+IP2,pg,pg_sensor_UV Light_mean,-0.1337,0.1337,0.4814
+IP2,pg,pg_sensor_RunCalc_UV_ForIntegral_v2_mean,-0.1335,0.1335,0.4818
+IP2,pg,pg_child2_xto_common_20x__33_1,-0.1314,0.1314,0.4888
+IP2,pg,pg_child2_xto_control_20x__18_1,-0.1314,0.1314,0.4889
+IP2,pg,pg_sensor_UV Light_std,-0.1308,0.1308,0.491
+IP2,pg,PG_PG - Volume pool PG ml [ml],0.1298,0.1298,0.4942
+IP2,pg,PG_PG - % Volume Column [%],0.1296,0.1296,0.4948
+IP2,pg,pg_sensor_RunCalc_UV_DuringHarvest_max,-0.1295,0.1295,0.4951
+IP2,pg,pg_sensor_XV-O1_ZSO_mean,0.1286,0.1286,0.4984
+IP2,pg,pg_child2_xto_prompt__7_1,-0.1276,0.1276,0.5016
+IP2,pg,pg_sensor_PIC_I1_OUT_std,-0.1263,0.1263,0.5059
+IP2,pg,pg_sensor_FIC_C11_min,0.1241,0.1241,0.5137
+IP2,pg,pg_sensor_Accumulated Volume_min,0.1218,0.1218,0.5213
+IP2,pg,pg_sensor_MT_I1_OUT_min,0.1218,0.1218,0.5214
+IP2,pg,pg_sensor_MT_I2_OUT_min,0.1218,0.1218,0.5214
+IP2,pg,pg_sensor_XV-O1_ZSO_min,0.1218,0.1218,0.5214
+IP2,pg,pg_sensor_XV-O1_ZSO_std,-0.1177,0.1177,0.5358
+IP2,pg,PG_UF - % elimination prot tot [%],0.1161,0.1161,0.5413
+IP2,pg,PG_DEAE - Volume injected ml [ml],0.116,0.116,0.5416
+IP2,pg,pg_sensor_Accumulated Volume_mean,-0.1154,0.1154,0.5438
+IP2,pg,pg_sensor_UV Light_max,-0.1119,0.1119,0.5561
+IP2,pg,pg_sensor_AI_A1_std,-0.106,0.106,0.5773
+IP2,pg,pg_sensor_RunCalc_UV_DuringHarvest_std,-0.1048,0.1048,0.5817
+IP2,pg,pg_child2_xto_outlet_20x__3_1,0.0996,0.0996,0.6004
+IP2,pg,pg_child2_xto_common_20x__13_1,-0.0978,0.0978,0.6073
+IP2,pg,pg_child2_xto_control_20x__2_1,-0.0978,0.0978,0.6072
+IP2,pg,pg_child2_xto_inlet_20x__8_1,-0.0978,0.0978,0.6073
+IP2,pg,pg_sensor_AI_A1_mean,-0.0977,0.0977,0.6075
+IP2,pg,pg_child2_xto_inline_201__3_1,-0.0972,0.0972,0.6094
+IP2,pg,pg_child2_xto_outlet_20x__7_1,-0.0972,0.0972,0.6094
+IP2,pg,pg_sensor_FIC_C11_std,0.085,0.085,0.6551
+IP2,pg,pg_child2_xto_inlet_20x__3_1,0.0794,0.0794,0.6766
+IP2,pg,pg_child2_xto_prompt__3_1,0.0723,0.0723,0.7044
+IP2,pg,pg_child2_xto_common_20x__43_1,-0.0712,0.0712,0.7086
+IP2,pg,pg_child2_xto_control_20x__30_1,-0.0712,0.0712,0.7086
+IP2,pg,pg_child2_xto_common_20x__20_1,0.0705,0.0705,0.7114
+IP2,pg,pg_child2_xto_control_20x__5_1,0.0704,0.0704,0.7115
+IP2,pg,pg_child2_xto_inline_201__4_1,0.0704,0.0704,0.7117
+IP2,pg,pg_child2_xto_prompt__16_1,-0.0685,0.0685,0.7192
+IP2,pg,pg_child2_xto_common_20x__22_1,0.0673,0.0673,0.7239
+IP2,pg,pg_child2_xto_outlet_20x__10_1,0.0673,0.0673,0.7239
+IP2,pg,pg_child2_xto_common_20x__15_1,0.0668,0.0668,0.7258
+IP2,pg,pg_sensor_RunCalc_UV_DuringHarvest_min,0.0659,0.0659,0.7294
+IP2,pg,PG_Packing quality HETP/S2 [Centimeter],0.0655,0.0655,0.7309
+IP2,pg,pg_sensor_UV Light_min,0.0645,0.0645,0.7349
+IP2,pg,pg_child2_xto_prompt__10_1,-0.0585,0.0585,0.7589
+IP2,pg,pg_child2_xto_common_20x__6_1,-0.0567,0.0567,0.7659
+IP2,pg,pg_child2_xto_inline_201__2_1,-0.0559,0.0559,0.7693
+IP2,pg,pg_child2_xto_prompt__9_1,-0.055,0.055,0.7726
+IP2,pg,pg_child2_xto_prompt__17_1,0.0516,0.0516,0.7867
+IP2,pg,pg_child2_xto_prompt__18_1,-0.0485,0.0485,0.799
+IP2,pg,pg_child2_xto_common_20x__44_1,0.0465,0.0465,0.8071
+IP2,pg,PG_Packing quality HETP/S1 [Centimeter],0.0452,0.0452,0.8126
+IP2,pg,pg_child2_xto_alarm_201__4_1,0.0405,0.0405,0.8316
+IP2,pg,PG_017 PG - Protein by Lowry [µg/ml],-0.0403,0.0403,0.8325
+IP2,pg,pg_child2_xto_prompt__4_1,-0.0386,0.0386,0.8396
+IP2,pg,PG_PG - Prot total [mg],-0.0347,0.0347,0.8555
+IP2,pg,PG_UF - Purification factor,0.0301,0.0301,0.8747
+IP2,pg,pg_sensor_AI_A3_max,0.0299,0.0299,0.8755
+IP2,pg,pg_child1_op4_batch_process_cl6b_1_1,-0.0297,0.0297,0.8764
+IP2,pg,pg_child2_xto_init_20x__2_1,-0.0297,0.0297,0.8764
+IP2,pg,pg_child2_xto_alarm_201__6_1,-0.0233,0.0233,0.9028
+IP2,pg,pg_sensor_MT_I1_OUT_mean,0.0232,0.0232,0.9033
+IP2,pg,pg_child2_xto_common_20x__46_1,-0.0224,0.0224,0.9063
+IP2,pg,pg_child2_xto_outlet_20x__19_1,-0.0212,0.0212,0.9115
+IP2,pg,pg_child2_xto_cip_201__10_1,-0.0206,0.0206,0.9139
+IP2,pg,pg_child2_xto_inline_201__15_1,-0.0205,0.0205,0.9144
+IP2,pg,pg_child2_xto_control_20x__16_1,-0.0203,0.0203,0.9153
+IP2,pg,pg_child2_xto_inlet_20x__14_1,-0.0203,0.0203,0.9153
+IP2,pg,pg_child2_xto_prompt__1_1,-0.015,0.015,0.9372
+IP2,pg,pg_child2_xto_common_20x__7_1,0.0123,0.0123,0.9487
+IP2,pg,pg_sensor_PIC_A1_min,0.0119,0.0119,0.9501
+IP2,pg,pg_sensor_RunCalc_UV_DuringHarvest_mean,0.009,0.009,0.9622
+IP2,pg,PG_Packing Assymetry/S2,0.008,0.008,0.9667
+IP2,pg,PG_Packing Assymetry/S1,0.0071,0.0071,0.9703
+IP2,pg,pg_child2_xto_common_20x__1_1,-0.0069,0.0069,0.971
+IP2,pg,pg_child2_xto_init_20x__1_1,-0.0049,0.0049,0.9795
+IP2,pg,pg_child2_xto_common_20x__4_1,0.0042,0.0042,0.9823
+IP2,pg,pg_child2_xto_prompt__13_1,0.0036,0.0036,0.985
+IP2,psv_global,GY_PSV - Purification factor,-0.5246,0.5246,0.0029
+IP2,psv_global,GY_PSV - % elimination prot. [%],-0.5087,0.5087,0.0041
+IP2,psv_global,PSV_020 PSV - Protein/dose (Lowry) [µg of pr,-0.4654,0.4654,0.0095
+IP2,psv_global,GY_PSV - Ratio prot/Ag,-0.454,0.454,0.0117
+IP2,psv_global,PSV_PSV - Flow average,-0.3519,0.3519,0.0565
+IP2,psv_global,PSV_005 PSV - Ag content Elisa [DU/ml],0.3125,0.3125,0.0927
+IP2,psv_global,PSV_PSV - Ag total,0.232,0.232,0.2174
+IP2,psv_global,PSV_PSV - Volume ml [ml],-0.2297,0.2297,0.2221
+IP2,psv_global,PSV_PSV - Filtration time [Minute],0.1409,0.1409,0.4578
+IP2,psv_global,PSV_019 PSV - Protein by lowry [µg/ml],0.044,0.044,0.8173
+IP2,psv_global,PSV_PSV - Prot total [mg],-0.0236,0.0236,0.9015
+IP2,uf,UF_Clarif - Ratio prot/Ag,0.4625,0.4625,0.0101
+IP2,uf,UF_PG - Volume injected ml [ml],-0.299,0.299,0.1085
+IP2,uf,UF_Clarif - Purification factor,0.2837,0.2837,0.1287
+IP2,uf,UF_Clarif - % elimination prot. [%],0.2576,0.2576,0.1694
+IP2,uf,UF_Clarif - % elimina. prot.tot [%],0.2494,0.2494,0.1839
+IP2,uf,UF_UF - Prot total [mg],0.2362,0.2362,0.2089
+IP2,uf,UF_016 UF - Protein by Lowry [µg/ml],0.209,0.209,0.2676
+IP2,uf,UF_022 Clarif - pH,-0.1068,0.1068,0.5741
+IP2,uf,UF_UF - Volume UFR ml [ml],0.0538,0.0538,0.7775
+IP2,uf,UF_003 UF - Ag content Elisa [DU/ml],-0.0496,0.0496,0.7945
+IP2,uf,UF_UF - Ag total,0.0022,0.0022,0.9907
+IP3,clarif,clarif_001 Ag cont Elisa virus cult [DU/ml],-0.4132,0.4132,0.0001
+IP3,clarif,clarif_D0-Cells count,0.2839,0.2839,0.0077
+IP3,clarif,clarif_014 Protein Lowry virus cult [µg/ml],-0.2599,0.2599,0.0151
+IP3,clarif,clarif_D5 8h-Cells count,0.2532,0.2532,0.018
+IP3,clarif,clarif_Duration cells pool transfer [Minute],0.2224,0.2224,0.0384
+IP3,clarif,clarif_Clarif 2 - Duration min [Minute],-0.1934,0.1934,0.0727
+IP3,clarif,clarif_031 Clarif 1-Flow 300L (L/min),0.1933,0.1933,0.0729
+IP3,clarif,clarif_Clarif 1 - Flow 340L (L/min),0.1825,0.1825,0.0907
+IP3,clarif,clarif_D1 WASH 10h-O2 flow rate [Nliter / hour],0.177,0.177,0.101
+IP3,clarif,clarif_Vol medium transf day 3 [Liter],-0.1751,0.1751,0.1048
+IP3,clarif,clarif_Vol medium transf day 5 [Liter],-0.1737,0.1737,0.1076
+IP3,clarif,clarif_Vol medium transf day 4 [Liter],-0.1735,0.1735,0.1081
+IP3,clarif,clarif_D4 AM-cell count Cell,-0.1725,0.1725,0.1101
+IP3,clarif,clarif_D3 AM-cell count Cell,-0.1593,0.1593,0.1406
+IP3,clarif,clarif_Clarif 1 - Duration [Minute],-0.1491,0.1491,0.1681
+IP3,clarif,clarif_D3 8h-clarif. 2 Volume before [Liter],-0.1468,0.1468,0.1749
+IP3,clarif,clarif_D3 8h-clarif. 2 Volume after [Liter],-0.1394,0.1394,0.1977
+IP3,clarif,clarif_D3 8h-clarif. 2 Volume clarif [Liter],-0.137,0.137,0.2057
+IP3,clarif,clarif_Nr fermentor,-0.1244,0.1244,0.2509
+IP3,clarif,clarif_D1 WASH 7h-Cells count CF,-0.1179,0.1179,0.2766
+IP3,clarif,clarif_D1 WASH 7h-Cells count CT,0.1143,0.1143,0.2919
+IP3,clarif,clarif_D1 8h-Cells count,0.1083,0.1083,0.3181
+IP3,clarif,clarif_D2 8h-NaOH consumption (ml) V,-0.1049,0.1049,0.3333
+IP3,clarif,clarif_D3 8h-clarif. 1 Volume clarif [Liter],0.0825,0.0825,0.4474
+IP3,clarif,clarif_D3 8h-clarif. 1 Volume after [Liter],-0.0814,0.0814,0.4537
+IP3,clarif,clarif_P142-Cells count,-0.0799,0.0799,0.4617
+IP3,clarif,clarif_D0 - Volume inoculum (ml),0.0748,0.0748,0.4909
+IP3,clarif,clarif_D0-Viability [%],-0.074,0.074,0.4959
+IP3,clarif,clarif_D3 8h-pH,0.0293,0.0293,0.7874
+IP3,clarif,clarif_Clarif 1 - Flow 100L (L/min),0.0289,0.0289,0.7905
+IP3,clarif,clarif_D3 8h-clarif. 1 Volume before [Liter],0.0277,0.0277,0.799
+IP3,clarif,clarif_001 D5 16h-Cells count,-0.0225,0.0225,0.8362
+IP3,clarif,clarif_D2 8h-Cells count Cell,0.0049,0.0049,0.9638
+IP3,clarif,clarif_Clarif 1 - Flow 200L (L/min),-0.0034,0.0034,0.975
+IP3,deae,deae_child2_xto_alarm_201__8_1,0.4684,0.4684,0.0
+IP3,deae,deae_child2_xto_inline_201__23_1,0.4562,0.4562,0.0
+IP3,deae,deae_child2_xto_prompt__6_1,0.4534,0.4534,0.0
+IP3,deae,deae_child2_xto_cip_201__11_1,0.4522,0.4522,0.0
+IP3,deae,deae_child2_xto_common_20x__46_1,0.4522,0.4522,0.0
+IP3,deae,deae_child2_xto_control_20x__16_1,0.4522,0.4522,0.0
+IP3,deae,deae_child2_xto_inlet_20x__12_1,0.4522,0.4522,0.0
+IP3,deae,deae_child2_xto_outlet_20x__10_1,0.4522,0.4522,0.0
+IP3,deae,deae_sensor_UV Elution_mean,0.4146,0.4146,0.0001
+IP3,deae,deae_sensor_Accumulated Volume_max,0.3912,0.3912,0.0002
+IP3,deae,deae_sensor_Accumulated Volume_mean,0.386,0.386,0.0002
+IP3,deae,deae_sensor_PIC_I1_mean,-0.3425,0.3425,0.0012
+IP3,deae,DEAE_DEAE - volume HCl [ml],0.3346,0.3346,0.0015
+IP3,deae,ev_pg_deae_up1_total_duration_h,0.3331,0.3331,0.0016
+IP3,deae,ev_deae_up12_total_duration_h,0.3331,0.3331,0.0016
+IP3,deae,deae_sensor_PI_A2_min,-0.3275,0.3275,0.002
+IP3,deae,DEAE_PG - % elimination prot tot [%],-0.324,0.324,0.0022
+IP3,deae,DEAE_PG - % elimination prot. [%],-0.3219,0.3219,0.0024
+IP3,deae,deae_child2_xto_inline_201__19_1,0.3121,0.3121,0.0033
+IP3,deae,deae_child2_xto_control_20x__33_1,0.312,0.312,0.0033
+IP3,deae,deae_child2_xto_control_20x__21_1,0.3072,0.3072,0.0038
+IP3,deae,deae_child2_xto_inlet_20x__19_1,0.3069,0.3069,0.0038
+IP3,deae,deae_sensor_PIC_I1_OUT_mean,-0.3055,0.3055,0.004
+IP3,deae,deae_child2_xto_common_20x__33_1,0.3049,0.3049,0.0041
+IP3,deae,deae_child2_xto_cip_201__6_1,0.3012,0.3012,0.0046
+IP3,deae,deae_child2_xto_common_20x__32_1,0.3012,0.3012,0.0046
+IP3,deae,deae_sensor_PIC_I1_std,-0.2987,0.2987,0.0049
+IP3,deae,ev_pg_deae_up5_std_duration_h,0.2942,0.2942,0.0057
+IP3,deae,deae_sensor_FIC_C11_std,-0.2841,0.2841,0.0077
+IP3,deae,deae_child2_xto_control_20x__25_1,0.2835,0.2835,0.0078
+IP3,deae,deae_child2_xto_inline_201__22_1,0.2835,0.2835,0.0078
+IP3,deae,deae_child2_xto_common_20x__49_1,0.2831,0.2831,0.0079
+IP3,deae,deae_child2_xto_outlet_20x__19_1,0.2831,0.2831,0.0079
+IP3,deae,DEAE_PG - Purification factor,0.2775,0.2775,0.0093
+IP3,deae,deae_child2_xto_inlet_20x__9_1,0.2738,0.2738,0.0103
+IP3,deae,deae_sensor_MT_I1_OUT_std,-0.2699,0.2699,0.0115
+IP3,deae,deae_child2_xto_prompt__2_1,0.2685,0.2685,0.0119
+IP3,deae,deae_child2_xto_control_20x__35_1,0.2664,0.2664,0.0126
+IP3,deae,deae_child2_xto_outlet_20x__14_1,0.2657,0.2657,0.0129
+IP3,deae,ev_pg_deae_up1_n_events,0.2652,0.2652,0.0131
+IP3,deae,ev_deae_up12_n_events,0.2638,0.2638,0.0135
+IP3,deae,deae_child2_xto_inline_201__15_1,0.2636,0.2636,0.0136
+IP3,deae,deae_child2_xto_common_20x__14_1,0.2635,0.2635,0.0137
+IP3,deae,deae_child2_xto_control_20x__3_1,0.2635,0.2635,0.0137
+IP3,deae,deae_sensor_UV Elution_std,0.2508,0.2508,0.0191
+IP3,deae,DEAE_DEAE - pH after adding,-0.2506,0.2506,0.0192
+IP3,deae,deae_child2_xto_control_20x__34_1,0.2453,0.2453,0.022
+IP3,deae,deae_sensor_MT_I1_OUT_max,-0.2439,0.2439,0.0228
+IP3,deae,deae_sensor_PIC_I1_OUT_min,-0.2417,0.2417,0.0241
+IP3,deae,deae_sensor_PIC_A1_max,-0.2412,0.2412,0.0244
+IP3,deae,deae_sensor_RunCalc_UV_ForIntegral_v2_max,0.2393,0.2393,0.0256
+IP3,deae,deae_sensor_PI_A2_max,-0.2385,0.2385,0.0261
+IP3,deae,deae_sensor_PI_A2_mean,-0.2361,0.2361,0.0277
+IP3,deae,deae_sensor_Accumulated Volume_std,0.2307,0.2307,0.0316
+IP3,deae,DEAE_DEAE - Volume harvested ml [ml],-0.2268,0.2268,0.0347
+IP3,deae,deae_sensor_PIC_I1_max,-0.2257,0.2257,0.0355
+IP3,deae,ev_deae_up12_mean_duration_h,0.2154,0.2154,0.0451
+IP3,deae,deae_sensor_AI_A3_min,0.215,0.215,0.0455
+IP3,deae,deae_sensor_RunCalc_UV_DuringHarvest_std,0.2143,0.2143,0.0462
+IP3,deae,ev_pg_deae_up1_mean_duration_h,0.2137,0.2137,0.0469
+IP3,deae,ev_pg_deae_up1_max_duration_h,0.2135,0.2135,0.0471
+IP3,deae,ev_deae_up12_max_duration_h,0.2135,0.2135,0.0471
+IP3,deae,deae_child2_xto_common_20x__34_1,-0.2134,0.2134,0.0472
+IP3,deae,deae_child2_xto_control_20x__19_1,-0.2134,0.2134,0.0472
+IP3,deae,deae_child2_xto_outlet_20x__24_1,-0.2134,0.2134,0.0472
+IP3,deae,deae_child2_xto_inlet_20x__6_1,-0.2127,0.2127,0.0479
+IP3,deae,deae_child2_xto_prompt__12_1,0.2127,0.2127,0.0479
+IP3,deae,deae_sensor_UV Light_std,0.2123,0.2123,0.0484
+IP3,deae,deae_sensor_FIC_C11_mean,0.2103,0.2103,0.0506
+IP3,deae,deae_child2_xto_control_20x__31_1,-0.2101,0.2101,0.0508
+IP3,deae,deae_child2_xto_inline_201__16_1,-0.2101,0.2101,0.0508
+IP3,deae,deae_child2_xto_outlet_20x__16_1,-0.2101,0.2101,0.0508
+IP3,deae,deae_child2_xto_inlet_20x__17_1,-0.2088,0.2088,0.0523
+IP3,deae,deae_child2_xto_prompt__16_1,-0.2076,0.2076,0.0537
+IP3,deae,deae_child2_xto_common_20x__57_1,-0.2075,0.2075,0.0537
+IP3,deae,deae_child2_xto_common_20x__37_1,0.2074,0.2074,0.0539
+IP3,deae,deae_child2_xto_cip_201__7_1,0.2065,0.2065,0.055
+IP3,deae,deae_sub_pc5,0.2045,0.2045,0.0575
+IP3,deae,deae_sensor_PIC_I1_OUT_std,-0.2034,0.2034,0.0588
+IP3,deae,deae_sensor_MT_I1_OUT_mean,-0.2006,0.2006,0.0624
+IP3,deae,deae_child2_xto_inlet_20x__15_1,0.2003,0.2003,0.0628
+IP3,deae,deae_sensor_PI_A2_std,-0.1995,0.1995,0.0639
+IP3,deae,DEAE_018 DEAE - Max load prot/g Gel,0.1994,0.1994,0.0641
+IP3,deae,deae_child2_xto_cip_201__2_1,0.1882,0.1882,0.0809
+IP3,deae,deae_child2_xto_control_20x__24_1,0.188,0.188,0.0813
+IP3,deae,deae_child2_xto_init_20x__3_1,-0.1879,0.1879,0.0814
+IP3,deae,DEAE_DPV - pH M199,0.1865,0.1865,0.0838
+IP3,deae,deae_sensor_RunCalc_UV_DuringHarvest_mean,0.1853,0.1853,0.0858
+IP3,deae,deae_sensor_UV Light_mean,0.1752,0.1752,0.1046
+IP3,deae,DEAE_DEAE - equilibration conducti [mS/cm],-0.1741,0.1741,0.1067
+IP3,deae,deae_child2_xto_common_20x__11_1,0.1738,0.1738,0.1073
+IP3,deae,deae_child2_xto_common_20x__15_1,0.1718,0.1718,0.1117
+IP3,deae,deae_sub_pc1,-0.1717,0.1717,0.1117
+IP3,deae,deae_child2_xto_control_20x__23_1,-0.1712,0.1712,0.1129
+IP3,deae,deae_child2_xto_outlet_20x__15_1,-0.1708,0.1708,0.1137
+IP3,deae,deae_child2_xto_inlet_20x__16_1,-0.1707,0.1707,0.114
+IP3,deae,deae_child2_xto_inline_201__27_1,-0.1707,0.1707,0.114
+IP3,deae,deae_child2_xto_cip_201__5_1,-0.17,0.17,0.1154
+IP3,deae,deae_child2_xto_alarm_201__6_1,-0.1683,0.1683,0.1192
+IP3,deae,deae_child2_xto_common_20x__21_1,0.1653,0.1653,0.126
+IP3,deae,deae_child2_xto_control_20x__6_1,0.1653,0.1653,0.126
+IP3,deae,deae_sensor_TI_A1_std,0.1644,0.1644,0.1282
+IP3,deae,deae_sub_pc2,0.1642,0.1642,0.1286
+IP3,deae,deae_child2_xto_outlet_20x__26_1,0.1641,0.1641,0.1289
+IP3,deae,deae_child2_xto_common_20x__50_1,0.1585,0.1585,0.1426
+IP3,deae,deae_child2_xto_inline_201__17_1,0.1585,0.1585,0.1426
+IP3,deae,deae_child2_xto_outlet_20x__2_1,0.1585,0.1585,0.1426
+IP3,deae,deae_child2_xto_common_20x__28_1,-0.1563,0.1563,0.1483
+IP3,deae,deae_child2_xto_init_20x__2_1,0.1547,0.1547,0.1525
+IP3,deae,deae_child2_xto_alarm_201__5_1,-0.1523,0.1523,0.1589
+IP3,deae,deae_child2_xto_outlet_20x__13_1,0.1487,0.1487,0.1692
+IP3,deae,DEAE_DEAE - Stock duration pool PG,-0.1484,0.1484,0.1701
+IP3,deae,deae_child2_xto_alarm_201__4_1,-0.1483,0.1483,0.1703
+IP3,deae,deae_child2_xto_prompt__22_1,0.1479,0.1479,0.1717
+IP3,deae,deae_child2_xto_common_20x__35_1,0.1477,0.1477,0.1721
+IP3,deae,deae_child2_xto_inlet_20x__14_1,0.1473,0.1473,0.1735
+IP3,deae,deae_child2_xto_control_20x__20_1,0.1472,0.1472,0.1735
+IP3,deae,deae_child2_xto_inline_201__8_1,-0.1457,0.1457,0.178
+IP3,deae,deae_child1_op12_batch_process_deae_1_1,-0.1445,0.1445,0.1816
+IP3,deae,deae_sensor_FIC_C11_max,0.1434,0.1434,0.1851
+IP3,deae,DEAE_DEAE - equilibration pH OUT,0.1416,0.1416,0.1907
+IP3,deae,deae_sensor_AI_A1_max,-0.1415,0.1415,0.1911
+IP3,deae,deae_sensor_AI_A1_min,0.1414,0.1414,0.1914
+IP3,deae,deae_child2_xto_inlet_20x__20_1,-0.1413,0.1413,0.1917
+IP3,deae,deae_child2_xto_prompt__4_1,-0.1408,0.1408,0.1935
+IP3,deae,deae_child2_xto_inline_201__5_1,0.1391,0.1391,0.1987
+IP3,deae,ev_pg_up4_n_events,0.1377,0.1377,0.2033
+IP3,deae,deae_child2_xto_outlet_20x__3_1,0.1312,0.1312,0.2258
+IP3,deae,deae_child2_xto_cip_201__9_1,0.1311,0.1311,0.2262
+IP3,deae,deae_child2_xto_common_20x__40_1,0.1311,0.1311,0.2262
+IP3,deae,deae_child2_xto_control_20x__27_1,0.1311,0.1311,0.2261
+IP3,deae,deae_sub_pc3,0.1293,0.1293,0.2327
+IP3,deae,deae_sensor_RunCalc_UV_DuringHarvest_min,-0.1287,0.1287,0.235
+IP3,deae,deae_child2_xto_outlet_20x__7_1,0.1285,0.1285,0.2355
+IP3,deae,deae_child2_xto_alarm_201__2_1,0.128,0.128,0.2374
+IP3,deae,deae_child2_xto_control_20x__4_1,0.128,0.128,0.2374
+IP3,deae,deae_child2_xto_inlet_20x__5_1,0.128,0.128,0.2374
+IP3,deae,deae_child2_xto_inline_201__7_1,0.128,0.128,0.2374
+IP3,deae,deae_child2_xto_outlet_20x__8_1,0.128,0.128,0.2375
+IP3,deae,deae_child2_xto_common_20x__24_1,0.1275,0.1275,0.2391
+IP3,deae,deae_child2_xto_control_20x__9_1,0.1275,0.1275,0.2391
+IP3,deae,deae_child2_xto_inlet_20x__11_1,0.1273,0.1273,0.2401
+IP3,deae,deae_child2_xto_common_20x__30_1,0.1251,0.1251,0.2483
+IP3,deae,deae_sensor_AI_A2_min,0.1244,0.1244,0.2511
+IP3,deae,deae_sensor_UV Light_min,-0.1234,0.1234,0.2547
+IP3,deae,deae_sensor_AI_A3_max,-0.1232,0.1232,0.2555
+IP3,deae,deae_child2_xto_common_20x__7_1,0.1229,0.1229,0.2569
+IP3,deae,deae_sensor_RunCalc_UV_ForIntegral_v2_std,0.1179,0.1179,0.2768
+IP3,deae,deae_child2_xto_common_20x__13_1,0.1179,0.1179,0.2769
+IP3,deae,deae_child2_xto_common_20x__36_1,0.1179,0.1179,0.2768
+IP3,deae,deae_child2_xto_control_20x__22_1,0.1179,0.1179,0.2768
+IP3,deae,deae_child2_xto_control_20x__2_1,0.1179,0.1179,0.2768
+IP3,deae,deae_child2_xto_inlet_20x__8_1,0.1176,0.1176,0.278
+IP3,deae,deae_child2_xto_inline_201__18_1,0.1176,0.1176,0.278
+IP3,deae,deae_sensor_RunCalc_UV_DuringHarvest_max,0.1171,0.1171,0.2799
+IP3,deae,deae_child2_xto_prompt__10_1,0.1158,0.1158,0.2856
+IP3,deae,ev_deae_up12_std_duration_h,0.1075,0.1075,0.3216
+IP3,deae,ev_pg_deae_up1_std_duration_h,0.1067,0.1067,0.3253
+IP3,deae,deae_sub_pc4,-0.1031,0.1031,0.3419
+IP3,deae,deae_child2_xto_prompt__3_1,0.1013,0.1013,0.3504
+IP3,deae,deae_sensor_AI_A2_max,-0.1012,0.1012,0.3508
+IP3,deae,deae_child2_xto_common_20x__56_1,-0.0996,0.0996,0.3586
+IP3,deae,deae_child2_xto_control_20x__18_1,-0.0992,0.0992,0.3607
+IP3,deae,deae_child2_xto_prompt__8_1,0.0963,0.0963,0.3751
+IP3,deae,deae_child2_xto_cip_201__4_1,-0.0961,0.0961,0.3757
+IP3,deae,deae_child2_xto_prompt__13_1,-0.0958,0.0958,0.3775
+IP3,deae,deae_child2_xto_outlet_20x__12_1,0.0926,0.0926,0.3936
+IP3,deae,deae_sensor_TI_A1_max,0.0924,0.0924,0.3945
+IP3,deae,DEAE_DEAE - pH pool DEAE,-0.0923,0.0923,0.395
+IP3,deae,deae_child2_xto_common_20x__25_1,-0.0897,0.0897,0.4089
+IP3,deae,deae_child2_xto_control_20x__11_1,-0.0894,0.0894,0.4101
+IP3,deae,deae_child2_xto_inline_201__13_1,-0.0894,0.0894,0.4104
+IP3,deae,deae_child2_xto_alarm_201__3_1,-0.0891,0.0891,0.4116
+IP3,deae,deae_child2_xto_common_20x__22_1,0.0877,0.0877,0.4194
+IP3,deae,deae_child2_xto_control_20x__36_1,0.0871,0.0871,0.4225
+IP3,deae,DEAE_DEAE - Hydratation duration [Minute],0.0845,0.0845,0.4363
+IP3,deae,deae_child2_xto_prompt__11_1,0.0845,0.0845,0.4365
+IP3,deae,deae_child2_xto_common_20x__16_1,-0.0842,0.0842,0.438
+IP3,deae,deae_child2_xto_alarm_201__7_1,0.0838,0.0838,0.4403
+IP3,deae,deae_child2_xto_control_20x__15_1,0.0838,0.0838,0.4402
+IP3,deae,deae_child2_xto_inline_201__28_1,0.0838,0.0838,0.4402
+IP3,deae,deae_child2_xto_outlet_20x__17_1,0.0838,0.0838,0.4402
+IP3,deae,deae_child2_xto_inlet_20x__18_1,0.0837,0.0837,0.4411
+IP3,deae,deae_child2_xto_outlet_20x__9_1,0.0822,0.0822,0.4493
+IP3,deae,deae_sensor_FIC_C11_min,-0.0799,0.0799,0.4619
+IP3,deae,deae_child2_xto_common_20x__39_1,0.0775,0.0775,0.4756
+IP3,deae,deae_child2_xto_outlet_20x__18_1,0.0775,0.0775,0.4755
+IP3,deae,deae_child2_xto_control_20x__32_1,0.0774,0.0774,0.4761
+IP3,deae,deae_child2_xto_control_20x__26_1,0.0773,0.0773,0.4769
+IP3,deae,deae_sensor_AI_A3_mean,0.0764,0.0764,0.482
+IP3,deae,deae_sensor_UV Light_max,-0.0761,0.0761,0.4838
+IP3,deae,ev_pg_up4_std_duration_h,0.0722,0.0722,0.5063
+IP3,deae,ev_pg_up4_total_duration_h,0.0692,0.0692,0.524
+IP3,deae,deae_child2_xto_outlet_20x__20_1,-0.0691,0.0691,0.5251
+IP3,deae,deae_sensor_TI_A2_max,0.0688,0.0688,0.5269
+IP3,deae,deae_sensor_MT_I2_OUT_mean,-0.0685,0.0685,0.5287
+IP3,deae,deae_child2_xto_prompt__7_1,-0.0684,0.0684,0.5291
+IP3,deae,deae_sensor_TI_A2_std,-0.0683,0.0683,0.5295
+IP3,deae,deae_sensor_Accumulated Volume_min,0.0681,0.0681,0.5306
+IP3,deae,deae_sensor_TI_A1_min,-0.0677,0.0677,0.5331
+IP3,deae,ev_pg_up4_max_duration_h,0.0664,0.0664,0.5409
+IP3,deae,deae_sensor_AI_A2_mean,0.0655,0.0655,0.5466
+IP3,deae,deae_child2_xto_control_20x__29_1,-0.0645,0.0645,0.553
+IP3,deae,deae_child2_xto_prompt__9_1,-0.0637,0.0637,0.5577
+IP3,deae,DEAE_DEAE - equilibration pH IN,-0.0628,0.0628,0.5633
+IP3,deae,deae_child2_xto_inline_201__6_1,-0.0628,0.0628,0.5631
+IP3,deae,deae_child2_xto_inlet_20x__3_1,-0.0624,0.0624,0.5656
+IP3,deae,DEAE_DEAE - Height of gel [Centimeter],0.0596,0.0596,0.5833
+IP3,deae,DEAE_DEAE - Volume of gel [Liter],0.0596,0.0596,0.5833
+IP3,deae,deae_sensor_TI_A2_min,0.0587,0.0587,0.5893
+IP3,deae,deae_sensor_TI_A1_mean,0.0576,0.0576,0.5961
+IP3,deae,deae_child2_xto_common_20x__29_1,0.0566,0.0566,0.6026
+IP3,deae,deae_child2_xto_common_20x__6_1,-0.0563,0.0563,0.6044
+IP3,deae,deae_sensor_XV-O1_ZSO_mean,-0.056,0.056,0.6066
+IP3,deae,deae_sensor_RunCalc_UV_ForIntegral_v2_mean,0.054,0.054,0.6194
+IP3,deae,deae_child2_xto_outlet_20x__6_1,-0.0532,0.0532,0.6248
+IP3,deae,deae_child2_xto_prompt__21_1,-0.0517,0.0517,0.6345
+IP3,deae,DEAE_DEAE - equilibration pH delta,0.0516,0.0516,0.6351
+IP3,deae,deae_child2_xto_cip_201__10_1,0.0514,0.0514,0.6363
+IP3,deae,deae_sensor_MT_I2_OUT_min,0.0513,0.0513,0.6371
+IP3,deae,deae_sensor_PIC_A1_min,-0.051,0.051,0.6389
+IP3,deae,deae_sensor_MT_I2_OUT_std,0.0502,0.0502,0.6443
+IP3,deae,deae_sensor_TA_A2_HETP_mean,0.0497,0.0497,0.6474
+IP3,deae,deae_sensor_TA_A2_HETP_min,0.0497,0.0497,0.6474
+IP3,deae,deae_sensor_TA_A2_HETP_max,0.0497,0.0497,0.6474
+IP3,deae,deae_child2_xto_outlet_20x__1_1,-0.0482,0.0482,0.6577
+IP3,deae,deae_child2_xto_inlet_20x__1_1,-0.0481,0.0481,0.658
+IP3,deae,deae_child2_xto_cip_201__1_1,-0.048,0.048,0.6586
+IP3,deae,deae_child2_xto_control_20x__1_1,-0.048,0.048,0.6589
+IP3,deae,deae_child2_xto_init_20x__1_1,-0.0473,0.0473,0.6635
+IP3,deae,deae_child2_xto_inline_201__1_1,-0.0472,0.0472,0.6644
+IP3,deae,deae_child2_xto_common_20x__1_1,-0.047,0.047,0.6653
+IP3,deae,deae_sensor_AI_A2_std,-0.0469,0.0469,0.6665
+IP3,deae,deae_child2_xto_control_20x__28_1,0.0467,0.0467,0.6678
+IP3,deae,deae_child2_xto_prompt__5_1,0.0451,0.0451,0.6786
+IP3,deae,deae_sensor_PIC_A1_mean,-0.0441,0.0441,0.6849
+IP3,deae,deae_sensor_MT_I1_OUT_min,-0.0423,0.0423,0.6971
+IP3,deae,deae_child2_xto_inline_201__10_1,0.0418,0.0418,0.7005
+IP3,deae,deae_child2_xto_outlet_20x__4_1,0.0418,0.0418,0.7005
+IP3,deae,deae_child2_xto_common_20x__23_1,0.0409,0.0409,0.7065
+IP3,deae,deae_child2_xto_control_20x__8_1,0.0409,0.0409,0.7065
+IP3,deae,deae_child2_xto_inlet_20x__10_1,0.0409,0.0409,0.7065
+IP3,deae,deae_child2_xto_common_20x__41_1,0.0403,0.0403,0.7107
+IP3,deae,deae_child2_xto_inline_201__4_1,-0.0393,0.0393,0.7175
+IP3,deae,deae_child2_xto_inlet_20x__4_1,-0.039,0.039,0.72
+IP3,deae,deae_child2_xto_common_20x__42_1,0.0381,0.0381,0.7258
+IP3,deae,deae_child2_xto_common_20x__4_1,0.0381,0.0381,0.726
+IP3,deae,deae_child2_xto_prompt__20_1,0.0372,0.0372,0.732
+IP3,deae,deae_sensor_AI_A1_mean,0.0369,0.0369,0.7341
+IP3,deae,deae_sensor_PIC_A1_std,-0.0359,0.0359,0.7415
+IP3,deae,deae_child2_xto_prompt__15_1,0.0356,0.0356,0.7433
+IP3,deae,ev_pg_deae_up5_total_duration_h,0.0353,0.0353,0.7457
+IP3,deae,deae_sensor_PIC_I1_min,-0.0346,0.0346,0.7506
+IP3,deae,deae_child2_xto_control_20x__12_1,0.0298,0.0298,0.7841
+IP3,deae,deae_child2_xto_common_20x__26_1,0.0293,0.0293,0.7877
+IP3,deae,deae_child2_xto_inline_201__9_1,-0.0278,0.0278,0.798
+IP3,deae,deae_child1_op13_user_request_2_1,-0.0275,0.0275,0.8007
+IP3,deae,deae_child2_xto_inline_201__2_1,-0.0231,0.0231,0.8319
+IP3,deae,deae_sensor_AI_A3_std,-0.0229,0.0229,0.8332
+IP3,deae,DEAE_PG - Ratio prot/Ag,-0.0222,0.0222,0.8384
+IP3,deae,deae_child2_xto_prompt__14_1,0.0214,0.0214,0.8442
+IP3,deae,ev_pg_deae_up5_n_events,-0.0201,0.0201,0.8537
+IP3,deae,deae_child2_xto_prompt__17_1,-0.0198,0.0198,0.8553
+IP3,deae,deae_sensor_TI_A2_mean,0.0195,0.0195,0.8578
+IP3,deae,deae_child2_xto_outlet_20x__21_1,-0.0158,0.0158,0.8845
+IP3,deae,deae_child2_xto_inline_201__14_1,0.0155,0.0155,0.8868
+IP3,deae,deae_child2_xto_alarm_201__1_1,0.0153,0.0153,0.8884
+IP3,deae,deae_sensor_TA_A2_ASYM_mean,-0.0151,0.0151,0.8898
+IP3,deae,deae_sensor_TA_A2_ASYM_min,-0.0151,0.0151,0.8898
+IP3,deae,deae_sensor_TA_A2_ASYM_max,-0.0151,0.0151,0.8898
+IP3,deae,deae_child2_xto_common_20x__43_1,-0.014,0.014,0.8978
+IP3,deae,deae_child2_xto_control_20x__30_1,-0.014,0.014,0.8978
+IP3,deae,deae_child2_xto_common_20x__3_1,-0.0134,0.0134,0.9023
+IP3,deae,deae_child2_xto_control_20x__17_1,-0.0134,0.0134,0.9023
+IP3,deae,deae_child2_xto_prompt__1_1,0.0133,0.0133,0.9023
+IP3,deae,deae_sensor_XV-O1_ZSO_std,0.0128,0.0128,0.9062
+IP3,deae,deae_child2_xto_common_20x__20_1,-0.0119,0.0119,0.9126
+IP3,deae,deae_child2_xto_control_20x__5_1,-0.0119,0.0119,0.9126
+IP3,deae,deae_sensor_AI_A1_std,-0.0101,0.0101,0.9263
+IP3,deae,deae_child2_xto_inline_201__12_1,-0.0057,0.0057,0.9582
+IP3,deae,ev_pg_deae_up5_mean_duration_h,-0.0041,0.0041,0.9703
+IP3,deae,ev_pg_deae_up5_max_duration_h,-0.0038,0.0038,0.9724
+IP3,deae,deae_child2_xto_outlet_20x__5_1,0.0033,0.0033,0.9757
+IP3,deae,deae_child2_xto_control_20x__7_1,-0.0026,0.0026,0.9811
+IP3,deae,ev_pg_up4_mean_duration_h,0.0024,0.0024,0.9825
+IP3,deae,deae_child2_xto_control_20x__13_1,0.0024,0.0024,0.9826
+IP3,deae,deae_child2_xto_common_20x__27_1,0.0023,0.0023,0.9828
+IP3,deae,deae_child2_xto_common_20x__5_1,0.0023,0.0023,0.983
+IP3,deae,deae_child2_xto_common_20x__2_1,0.0019,0.0019,0.9864
+IP3,deae,deae_child2_xto_inlet_20x__7_1,0.0016,0.0016,0.988
+IP3,deae,deae_child2_xto_control_20x__10_1,-0.001,0.001,0.993
+IP3,pg,PG_004 PG - Ag content Elisa [DU/ml],0.3895,0.3895,0.0002
+IP3,pg,PG_PG - Ag total,0.3849,0.3849,0.0002
+IP3,pg,pg_sensor_TI_A2_max,0.2982,0.2982,0.005
+IP3,pg,PG_Packing quality HETP/S1 [Centimeter],-0.2953,0.2953,0.0055
+IP3,pg,pg_sensor_AI_A2_mean,0.2825,0.2825,0.008
+IP3,pg,pg_sensor_AI_A3_min,-0.2731,0.2731,0.0105
+IP3,pg,pg_sensor_AI_A2_std,0.2644,0.2644,0.0133
+IP3,pg,PG_Packing quality HETP/S2 [Centimeter],-0.2573,0.2573,0.0161
+IP3,pg,pg_child2_xto_common_20x__44_1,-0.2564,0.2564,0.0165
+IP3,pg,PG_Packing Assymetry/S2,-0.2503,0.2503,0.0194
+IP3,pg,PG_Packing Assymetry/S1,-0.245,0.245,0.0222
+IP3,pg,pg_sensor_PIC_A1_mean,0.245,0.245,0.0222
+IP3,pg,pg_child2_xto_prompt__12_1,-0.239,0.239,0.0258
+IP3,pg,pg_sensor_AI_A3_std,0.2374,0.2374,0.0268
+IP3,pg,pg_sensor_PIC_A1_std,0.2371,0.2371,0.027
+IP3,pg,pg_sensor_TI_A1_mean,0.2344,0.2344,0.0288
+IP3,pg,pg_child2_xto_common_20x__5_1,0.2328,0.2328,0.03
+IP3,pg,pg_child2_xto_control_20x__2_1,0.2259,0.2259,0.0354
+IP3,pg,pg_child2_xto_inlet_20x__8_1,0.2255,0.2255,0.0357
+IP3,pg,pg_child2_xto_common_20x__13_1,0.2249,0.2249,0.0362
+IP3,pg,pg_child2_xto_outlet_20x__7_1,0.2217,0.2217,0.0391
+IP3,pg,pg_child2_xto_inline_201__3_1,0.2216,0.2216,0.0391
+IP3,pg,pg_sensor_XV-O1_ZSO_mean,-0.2177,0.2177,0.0428
+IP3,pg,pg_sensor_TI_A1_min,0.2153,0.2153,0.0452
+IP3,pg,pg_sensor_AI_A3_max,-0.2143,0.2143,0.0462
+IP3,pg,pg_child2_xto_prompt__1_1,-0.214,0.214,0.0465
+IP3,pg,pg_sensor_TI_A2_mean,0.2131,0.2131,0.0475
+IP3,pg,pg_child2_xto_prompt__2_1,-0.211,0.211,0.0498
+IP3,pg,pg_sensor_TI_A2_std,0.2055,0.2055,0.0562
+IP3,pg,pg_sensor_MT_I2_OUT_max,-0.2031,0.2031,0.0592
+IP3,pg,pg_child2_xto_prompt__5_1,0.2006,0.2006,0.0625
+IP3,pg,pg_sensor_XV-O1_ZSO_std,-0.1987,0.1987,0.0651
+IP3,pg,pg_child2_xto_inlet_20x__1_1,0.1869,0.1869,0.0831
+IP3,pg,pg_child2_xto_inline_201__1_1,0.1869,0.1869,0.0831
+IP3,pg,pg_sensor_AI_A2_min,0.1868,0.1868,0.0832
+IP3,pg,pg_child2_xto_prompt__7_1,0.1868,0.1868,0.0833
+IP3,pg,pg_child2_xto_common_20x__3_1,0.1865,0.1865,0.0836
+IP3,pg,pg_child2_xto_outlet_20x__15_1,0.1805,0.1805,0.0944
+IP3,pg,pg_child2_xto_alarm_201__1_1,0.1796,0.1796,0.096
+IP3,pg,pg_sensor_MT_I1_OUT_std,0.1757,0.1757,0.1035
+IP3,pg,pg_child2_xto_control_20x__1_1,0.1737,0.1737,0.1077
+IP3,pg,pg_child2_xto_outlet_20x__1_1,0.1737,0.1737,0.1077
+IP3,pg,pg_child2_xto_cip_201__1_1,0.1736,0.1736,0.1077
+IP3,pg,pg_child2_xto_common_20x__6_1,-0.1728,0.1728,0.1095
+IP3,pg,pg_child2_xto_inline_201__2_1,-0.1719,0.1719,0.1114
+IP3,pg,pg_child2_xto_control_20x__15_1,-0.1716,0.1716,0.112
+IP3,pg,pg_sensor_PI_A2_max,-0.1632,0.1632,0.1309
+IP3,pg,pg_sensor_FIC_C11_std,0.1577,0.1577,0.1445
+IP3,pg,pg_child2_xto_common_20x__35_1,0.1491,0.1491,0.1682
+IP3,pg,pg_child2_xto_control_20x__20_1,0.1491,0.1491,0.1682
+IP3,pg,pg_sensor_RunCalc_UV_ForIntegral_v2_min,0.1473,0.1473,0.1733
+IP3,pg,pg_sensor_AI_A1_mean,0.1471,0.1471,0.174
+IP3,pg,pg_sensor_MT_I1_OUT_mean,0.1408,0.1408,0.1934
+IP3,pg,pg_child2_xto_prompt__10_1,-0.1407,0.1407,0.1936
+IP3,pg,pg_sensor_UV Light_std,-0.1406,0.1406,0.1941
+IP3,pg,pg_sensor_PIC_A1_max,0.136,0.136,0.209
+IP3,pg,pg_child2_xto_common_20x__27_1,0.1338,0.1338,0.2168
+IP3,pg,pg_child2_xto_control_20x__13_1,0.1338,0.1338,0.2168
+IP3,pg,pg_sub_pc2,0.1271,0.1271,0.2406
+IP3,pg,pg_sensor_TA_A2_HETP_mean,-0.1269,0.1269,0.2415
+IP3,pg,pg_sensor_TA_A2_HETP_min,-0.1269,0.1269,0.2415
+IP3,pg,pg_sensor_TA_A2_HETP_max,-0.1269,0.1269,0.2415
+IP3,pg,pg_sub_pc5,0.1258,0.1258,0.2455
+IP3,pg,pg_sensor_AI_A1_std,0.1233,0.1233,0.2551
+IP3,pg,PG_UF - Purification factor,0.1228,0.1228,0.2571
+IP3,pg,pg_child2_xto_cip_201__9_1,0.1222,0.1222,0.2594
+IP3,pg,pg_sub_pc4,-0.1211,0.1211,0.2638
+IP3,pg,pg_sensor_UV Light_max,-0.1202,0.1202,0.2673
+IP3,pg,pg_sensor_FIC_C11_mean,-0.1196,0.1196,0.2697
+IP3,pg,pg_sensor_TI_A2_min,0.1166,0.1166,0.282
+IP3,pg,pg_sub_pc3,-0.116,0.116,0.2845
+IP3,pg,pg_sub_pc1,-0.1152,0.1152,0.288
+IP3,pg,pg_child2_xto_common_20x__15_1,0.1147,0.1147,0.2902
+IP3,pg,PG_PG - Prot total [mg],-0.1145,0.1145,0.2911
+IP3,pg,pg_sensor_FIC_C11_max,-0.1141,0.1141,0.2926
+IP3,pg,pg_child2_xto_inlet_20x__7_1,0.1139,0.1139,0.2935
+IP3,pg,pg_sensor_RunCalc_UV_DuringHarvest_std,-0.1134,0.1134,0.2955
+IP3,pg,pg_child2_xto_common_20x__28_1,0.1108,0.1108,0.3069
+IP3,pg,pg_child2_xto_control_20x__14_1,0.1108,0.1108,0.3069
+IP3,pg,PG_017 PG - Protein by Lowry [µg/ml],-0.1094,0.1094,0.3133
+IP3,pg,pg_sensor_RunCalc_UV_DuringHarvest_max,-0.1073,0.1073,0.3227
+IP3,pg,pg_child2_xto_common_20x__16_1,-0.1063,0.1063,0.3271
+IP3,pg,pg_child2_xto_outlet_20x__10_1,-0.1058,0.1058,0.3296
+IP3,pg,pg_child2_xto_alarm_201__4_1,-0.1045,0.1045,0.3355
+IP3,pg,pg_child2_xto_control_20x__3_1,0.1038,0.1038,0.3389
+IP3,pg,pg_child2_xto_inline_201__17_1,0.1036,0.1036,0.3398
+IP3,pg,pg_child2_xto_inlet_20x__9_1,0.1034,0.1034,0.3405
+IP3,pg,pg_child2_xto_common_20x__14_1,0.103,0.103,0.3425
+IP3,pg,pg_child2_xto_outlet_20x__20_1,0.1021,0.1021,0.3467
+IP3,pg,pg_child2_xto_common_20x__22_1,-0.1016,0.1016,0.349
+IP3,pg,pg_child2_xto_alarm_201__8_1,0.0999,0.0999,0.3571
+IP3,pg,pg_child2_xto_inline_201__11_1,0.0993,0.0993,0.3602
+IP3,pg,PG_PG - Volume pool PG ml [ml],-0.0972,0.0972,0.3704
+IP3,pg,pg_child1_op4_batch_process_cl6b_1_1,0.096,0.096,0.3765
+IP3,pg,pg_child2_xto_init_20x__2_1,0.096,0.096,0.3765
+IP3,pg,pg_sensor_PIC_I1_std,-0.0943,0.0943,0.3852
+IP3,pg,pg_sensor_UV Light_mean,-0.0917,0.0917,0.3985
+IP3,pg,pg_sensor_Accumulated Volume_mean,-0.091,0.091,0.4021
+IP3,pg,pg_child2_xto_common_20x__41_1,0.0901,0.0901,0.4068
+IP3,pg,pg_child2_xto_control_20x__28_1,0.0901,0.0901,0.4068
+IP3,pg,pg_child2_xto_common_20x__45_1,0.0899,0.0899,0.4074
+IP3,pg,PG_UF - Ratio prot/Ag,0.0895,0.0895,0.4098
+IP3,pg,pg_sensor_RunCalc_UV_DuringHarvest_min,0.0888,0.0888,0.4132
+IP3,pg,PG_PG - % Volume Column [%],-0.0849,0.0849,0.4343
+IP3,pg,pg_sensor_MT_I1_OUT_max,0.0848,0.0848,0.4349
+IP3,pg,pg_child2_xto_cip_201__7_1,-0.0838,0.0838,0.4405
+IP3,pg,pg_child2_xto_common_20x__39_1,-0.0838,0.0838,0.4405
+IP3,pg,pg_child2_xto_control_20x__26_1,-0.0838,0.0838,0.4404
+IP3,pg,pg_child2_xto_inlet_20x__12_1,-0.0838,0.0838,0.4404
+IP3,pg,pg_child2_xto_outlet_20x__3_1,0.0837,0.0837,0.4411
+IP3,pg,pg_child1_op13_user_request_2_1,0.0828,0.0828,0.4456
+IP3,pg,pg_child2_xto_inlet_20x__3_1,0.0826,0.0826,0.447
+IP3,pg,pg_child2_xto_inline_201__4_1,0.0819,0.0819,0.4509
+IP3,pg,pg_child2_xto_common_20x__20_1,0.0818,0.0818,0.4511
+IP3,pg,pg_child2_xto_control_20x__5_1,0.0818,0.0818,0.4511
+IP3,pg,pg_sensor_RunCalc_UV_ForIntegral_v2_mean,-0.0817,0.0817,0.4521
+IP3,pg,pg_sensor_Accumulated Volume_min,-0.081,0.081,0.4557
+IP3,pg,pg_sensor_PIC_I1_mean,-0.0781,0.0781,0.4719
+IP3,pg,pg_sensor_PIC_I1_OUT_std,0.0735,0.0735,0.4986
+IP3,pg,pg_child2_xto_common_20x__17_1,-0.0717,0.0717,0.5093
+IP3,pg,pg_child2_xto_init_20x__1_1,-0.0708,0.0708,0.5149
+IP3,pg,pg_sensor_PIC_I1_OUT_mean,0.0694,0.0694,0.523
+IP3,pg,PG_DEAE - Volume injected ml [ml],-0.0676,0.0676,0.5339
+IP3,pg,pg_child2_xto_cip_201__8_1,0.0669,0.0669,0.5379
+IP3,pg,pg_child2_xto_inlet_20x__13_1,0.0669,0.0669,0.5379
+IP3,pg,pg_child2_xto_outlet_20x__18_1,0.0646,0.0646,0.5522
+IP3,pg,pg_sensor_RunCalc_UV_ForIntegral_v2_std,-0.064,0.064,0.5558
+IP3,pg,pg_child2_xto_cip_201__2_1,0.0621,0.0621,0.568
+IP3,pg,pg_child2_xto_common_20x__11_1,0.0621,0.0621,0.568
+IP3,pg,pg_sensor_Accumulated Volume_std,0.061,0.061,0.5744
+IP3,pg,pg_child2_xto_inlet_20x__19_1,0.061,0.061,0.5746
+IP3,pg,pg_sensor_PIC_I1_max,-0.0605,0.0605,0.578
+IP3,pg,pg_sensor_PI_A2_mean,0.0603,0.0603,0.5792
+IP3,pg,pg_child2_xto_common_20x__7_1,0.0602,0.0602,0.58
+IP3,pg,pg_child2_xto_prompt__15_1,0.0598,0.0598,0.5821
+IP3,pg,pg_child2_xto_common_20x__37_1,0.0597,0.0597,0.5829
+IP3,pg,pg_child2_xto_control_20x__24_1,0.0597,0.0597,0.5829
+IP3,pg,pg_child2_xto_outlet_20x__11_1,0.0597,0.0597,0.5829
+IP3,pg,pg_child2_xto_common_20x__33_1,0.0595,0.0595,0.5839
+IP3,pg,pg_child2_xto_control_20x__18_1,0.0595,0.0595,0.5839
+IP3,pg,pg_child2_xto_control_20x__27_1,0.0584,0.0584,0.591
+IP3,pg,pg_child2_xto_common_20x__40_1,0.0583,0.0583,0.5914
+IP3,pg,pg_child2_xto_cip_201__6_1,0.058,0.058,0.5937
+IP3,pg,pg_child2_xto_control_20x__25_1,0.058,0.058,0.5935
+IP3,pg,pg_child2_xto_inline_201__9_1,0.058,0.058,0.5936
+IP3,pg,pg_child2_xto_outlet_20x__17_1,0.058,0.058,0.5935
+IP3,pg,pg_child2_xto_common_20x__38_1,0.0579,0.0579,0.594
+IP3,pg,pg_child2_xto_outlet_20x__2_1,0.0579,0.0579,0.5941
+IP3,pg,pg_child2_xto_prompt__17_1,-0.0579,0.0579,0.5942
+IP3,pg,pg_child2_xto_common_20x__36_1,0.0578,0.0578,0.5946
+IP3,pg,pg_child2_xto_control_20x__23_1,0.0578,0.0578,0.5946
+IP3,pg,pg_child2_xto_outlet_20x__16_1,0.0578,0.0578,0.5949
+IP3,pg,pg_child2_xto_common_20x__21_1,0.0569,0.0569,0.6004
+IP3,pg,pg_child2_xto_control_20x__6_1,0.0569,0.0569,0.6004
+IP3,pg,pg_child2_xto_inline_201__5_1,0.0558,0.0558,0.6077
+IP3,pg,pg_child2_xto_prompt__6_1,-0.0534,0.0534,0.6235
+IP3,pg,pg_child2_xto_common_20x__12_1,0.0523,0.0523,0.6303
+IP3,pg,pg_sensor_PI_A2_std,0.0506,0.0506,0.6417
+IP3,pg,pg_child2_xto_common_20x__4_1,-0.0502,0.0502,0.644
+IP3,pg,pg_child2_xto_prompt__13_1,-0.0502,0.0502,0.6444
+IP3,pg,pg_sensor_MT_I2_OUT_mean,0.0484,0.0484,0.6563
+IP3,pg,pg_sensor_TA_O1_HETP_mean,-0.0482,0.0482,0.6573
+IP3,pg,pg_sensor_AI_A1_min,0.0474,0.0474,0.6627
+IP3,pg,pg_sensor_Accumulated Volume_max,-0.0468,0.0468,0.6669
+IP3,pg,pg_child2_xto_common_20x__1_1,0.0462,0.0462,0.671
+IP3,pg,pg_sensor_PIC_A1_min,0.0461,0.0461,0.6714
+IP3,pg,pg_child2_xto_common_20x__34_1,0.0457,0.0457,0.6742
+IP3,pg,pg_child2_xto_control_20x__19_1,0.0457,0.0457,0.6742
+IP3,pg,pg_child2_xto_outlet_20x__5_1,-0.0446,0.0446,0.682
+IP3,pg,pg_child2_xto_outlet_20x__9_1,-0.0446,0.0446,0.6815
+IP3,pg,pg_child2_xto_common_20x__30_1,0.0444,0.0444,0.6829
+IP3,pg,pg_child2_xto_inlet_20x__4_1,-0.0441,0.0441,0.685
+IP3,pg,pg_sensor_RunCalc_UV_ForIntegral_v2_max,-0.0433,0.0433,0.6908
+IP3,pg,PG_UF - % elimination prot tot [%],0.0395,0.0395,0.7163
+IP3,pg,pg_sensor_TA_A2_ASYM_mean,0.0394,0.0394,0.7172
+IP3,pg,pg_sensor_TA_A2_ASYM_min,0.0394,0.0394,0.7172
+IP3,pg,pg_sensor_TA_A2_ASYM_max,0.0394,0.0394,0.7172
+IP3,pg,pg_sensor_TI_A1_std,-0.0365,0.0365,0.7371
+IP3,pg,pg_child2_xto_alarm_201__2_1,0.0352,0.0352,0.7464
+IP3,pg,pg_child2_xto_control_20x__4_1,0.0352,0.0352,0.7464
+IP3,pg,pg_child2_xto_inlet_20x__5_1,0.0352,0.0352,0.7464
+IP3,pg,pg_child2_xto_inline_201__7_1,0.0352,0.0352,0.7464
+IP3,pg,pg_child2_xto_outlet_20x__8_1,0.0352,0.0352,0.7464
+IP3,pg,pg_sensor_MT_I2_OUT_std,-0.0351,0.0351,0.7466
+IP3,pg,pg_child2_xto_alarm_201__5_1,0.0339,0.0339,0.7556
+IP3,pg,pg_child2_xto_inline_201__14_1,0.0339,0.0339,0.7555
+IP3,pg,pg_child2_xto_common_20x__29_1,0.0327,0.0327,0.7637
+IP3,pg,pg_child2_xto_common_20x__43_1,-0.0325,0.0325,0.7653
+IP3,pg,pg_child2_xto_control_20x__30_1,-0.0325,0.0325,0.7653
+IP3,pg,pg_child2_xto_prompt__16_1,-0.0313,0.0313,0.7737
+IP3,pg,pg_child2_xto_inlet_20x__16_1,0.0309,0.0309,0.7766
+IP3,pg,pg_child2_xto_inline_201__6_1,0.0309,0.0309,0.7763
+IP3,pg,pg_child2_xto_control_20x__29_1,0.0308,0.0308,0.7772
+IP3,pg,pg_sensor_PIC_I1_min,0.0306,0.0306,0.7785
+IP3,pg,pg_child2_xto_alarm_201__7_1,-0.0306,0.0306,0.7786
+IP3,pg,pg_child2_xto_inline_201__16_1,-0.0306,0.0306,0.7786
+IP3,pg,pg_sensor_MT_I1_OUT_min,0.0303,0.0303,0.7804
+IP3,pg,pg_child2__gen_get_val_15__1_1,0.028,0.028,0.7968
+IP3,pg,pg_sensor_TI_A1_max,-0.0269,0.0269,0.805
+IP3,pg,pg_child2_xto_outlet_20x__12_1,0.0255,0.0255,0.8149
+IP3,pg,pg_child2_xto_outlet_20x__14_1,0.0242,0.0242,0.8237
+IP3,pg,pg_child2_xto_common_20x__24_1,0.023,0.023,0.8324
+IP3,pg,pg_child2_xto_cip_201__5_1,0.0229,0.0229,0.8335
+IP3,pg,pg_child2_xto_control_20x__9_1,0.0228,0.0228,0.8337
+IP3,pg,pg_child2_xto_inlet_20x__11_1,0.0225,0.0225,0.8362
+IP3,pg,PG_UF - % elimination prot. [%],0.0223,0.0223,0.8373
+IP3,pg,pg_sensor_PIC_I1_OUT_min,-0.0211,0.0211,0.8464
+IP3,pg,pg_child2_xto_prompt__9_1,0.0207,0.0207,0.849
+IP3,pg,pg_sensor_UV Elution_std,0.0204,0.0204,0.8515
+IP3,pg,pg_child2_xto_prompt__18_1,-0.0204,0.0204,0.8512
+IP3,pg,pg_sensor_UV Light_min,0.019,0.019,0.861
+IP3,pg,pg_child2_xto_control_20x__21_1,0.0188,0.0188,0.863
+IP3,pg,pg_sensor_RunCalc_UV_DuringHarvest_mean,0.018,0.018,0.8686
+IP3,pg,pg_child2_xto_control_20x__7_1,-0.0168,0.0168,0.8771
+IP3,pg,pg_child2_xto_inlet_20x__6_1,-0.0168,0.0168,0.8771
+IP3,pg,pg_child2_xto_prompt__14_1,-0.0168,0.0168,0.8773
+IP3,pg,pg_child2_xto_common_20x__32_1,-0.0164,0.0164,0.8802
+IP3,pg,pg_child2_xto_inline_201__10_1,0.0164,0.0164,0.8804
+IP3,pg,pg_child2_xto_alarm_201__6_1,0.0137,0.0137,0.9
+IP3,pg,pg_child2_xto_outlet_20x__19_1,0.0137,0.0137,0.8996
+IP3,pg,pg_child2_xto_inline_201__8_1,-0.0133,0.0133,0.9025
+IP3,pg,pg_child2_xto_common_20x__46_1,0.0129,0.0129,0.9057
+IP3,pg,pg_sensor_AI_A2_max,0.0127,0.0127,0.9073
+IP3,pg,pg_child2_xto_inlet_20x__14_1,0.0127,0.0127,0.907
+IP3,pg,pg_child2_xto_cip_201__10_1,0.0125,0.0125,0.9088
+IP3,pg,pg_child2_xto_control_20x__16_1,0.0124,0.0124,0.9094
+IP3,pg,pg_child2_xto_inline_201__15_1,0.0123,0.0123,0.91
+IP3,pg,pg_sensor_FIC_C11_min,-0.0119,0.0119,0.913
+IP3,pg,pg_sensor_PI_A2_min,0.0111,0.0111,0.919
+IP3,pg,pg_sensor_UV Elution_max,0.0109,0.0109,0.92
+IP3,pg,pg_child2_xto_outlet_20x__6_1,0.0104,0.0104,0.9239
+IP3,pg,pg_child2_xto_common_20x__26_1,0.0103,0.0103,0.9249
+IP3,pg,pg_child2_xto_control_20x__12_1,0.0103,0.0103,0.9249
+IP3,pg,pg_child2_xto_alarm_201__9_1,-0.0099,0.0099,0.9278
+IP3,pg,pg_sensor_MT_I2_OUT_min,-0.009,0.009,0.9343
+IP3,pg,pg_child2_xto_cip_201__4_1,-0.009,0.009,0.9342
+IP3,pg,pg_child2_xto_common_20x__25_1,0.0087,0.0087,0.9366
+IP3,pg,pg_child2_xto_control_20x__11_1,0.0087,0.0087,0.9366
+IP3,pg,pg_child2_xto_inline_201__13_1,0.0086,0.0086,0.9368
+IP3,pg,pg_sensor_AI_A3_mean,0.0065,0.0065,0.9521
+IP3,pg,pg_sensor_UV Elution_mean,0.0049,0.0049,0.9641
+IP3,pg,pg_child2_xto_common_20x__23_1,-0.0048,0.0048,0.9647
+IP3,pg,pg_child2_xto_control_20x__8_1,-0.0044,0.0044,0.9677
+IP3,pg,pg_child2_xto_inlet_20x__10_1,-0.0043,0.0043,0.9682
+IP3,pg,pg_child2_xto_prompt__4_1,0.0038,0.0038,0.9724
+IP3,pg,pg_child2_xto_outlet_20x__4_1,0.0022,0.0022,0.9842
+IP3,pg,pg_sensor_AI_A1_max,-0.0016,0.0016,0.9885
+IP3,pg,pg_child2_xto_prompt__3_1,0.0011,0.0011,0.9921
+IP3,pg,pg_child2_xto_alarm_201__3_1,0.001,0.001,0.9929
+IP3,pg,pg_child2_xto_common_20x__42_1,-0.0009,0.0009,0.9934
+IP3,pg,pg_child2_xto_inlet_20x__17_1,-0.0009,0.0009,0.9934
+IP3,pg,pg_child2_xto_common_20x__2_1,0.0005,0.0005,0.9966
+IP3,pg,pg_child2_xto_control_20x__10_1,0.0005,0.0005,0.9966
+IP3,pg,pg_child2_xto_inline_201__12_1,0.0005,0.0005,0.9966
+IP3,pg,pg_child2_xto_prompt__8_1,0.0002,0.0002,0.9987
+IP3,psv_global,PSV_PSV - Ag total,0.5512,0.5512,0.0
+IP3,psv_global,PSV_005 PSV - Ag content Elisa [DU/ml],0.4674,0.4674,0.0
+IP3,psv_global,PSV_PSV - Volume ml [ml],0.328,0.328,0.0019
+IP3,psv_global,PSV_PSV - Prot total [mg],0.1902,0.1902,0.0777
+IP3,psv_global,PSV_PSV - Filtration time [Minute],0.1753,0.1753,0.1043
+IP3,psv_global,PSV_PSV - Flow average,0.1489,0.1489,0.1687
+IP3,psv_global,PSV_019 PSV - Protein by lowry [µg/ml],0.1278,0.1278,0.2383
+IP3,psv_global,GY_PSV - % elimination prot. [%],0.0862,0.0862,0.4273
+IP3,psv_global,PSV_021 PSV - BSA content by Elisa [ng/ml],0.0614,0.0614,0.5721
+IP3,psv_global,GY_PSV - Ratio prot/Ag,-0.0485,0.0485,0.6553
+IP3,psv_global,PSV_020 PSV - Protein/dose (Lowry) [µg of pr,-0.0465,0.0465,0.6687
+IP3,psv_global,GY_PSV - Purification factor,-0.016,0.016,0.883
+IP3,uf,UF_UF - Ag total,0.5086,0.5086,0.0
+IP3,uf,UF_Clarif - Purification factor,0.4786,0.4786,0.0
+IP3,uf,UF_003 UF - Ag content Elisa [DU/ml],0.4335,0.4335,0.0
+IP3,uf,UF_Clarif - Ratio prot/Ag,0.3404,0.3404,0.0013
+IP3,uf,UF_UF - Volume UFR ml [ml],0.2048,0.2048,0.0571
+IP3,uf,UF_022 Clarif - pH,0.161,0.161,0.1364
+IP3,uf,UF_PG - Volume injected ml [ml],-0.1042,0.1042,0.337
+IP3,uf,UF_016 UF - Protein by Lowry [µg/ml],-0.1015,0.1015,0.3497
+IP3,uf,UF_Clarif - % elimination prot. [%],0.1,0.1,0.3566
+IP3,uf,UF_Clarif - % elimina. prot.tot [%],0.0731,0.0731,0.501
+IP3,uf,UF_UF - Prot total [mg],-0.028,0.028,0.7971
